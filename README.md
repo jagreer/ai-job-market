@@ -6,7 +6,7 @@ date: "Monday June 16th, 2025"
 
 ## Project Overview
 
-This project analyzes the United States AI job market dataset from 2024-2025. The analysis provides insights into compensation trends, required skills, and factors affecting salary variations in the AI field. The project aims to support STEAMe's mission as "The Engine for Workforce Transformation" by providing data-driven insights for job seekers, employers, training providers, and workforce intermediaries.
+This project analyzes the United States [AI job market dataset in 2025](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025). The analysis provides insights into compensation trends, required skills, and factors affecting salary variations in the AI field. The project aims to support STEAMe's mission as "The Engine for Workforce Transformation" by providing data-driven insights for job seekers, employers, training providers, and workforce intermediaries.
 
 ## Dataset
 
