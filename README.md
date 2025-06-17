@@ -50,8 +50,6 @@ The analysis is divided into two main parts:
 
 - `2025-06-13-NB-1-Descriptive-Analysis.ipynb`: Notebook containing the descriptive analysis
 - `2025-06-16-NB-2-Diagnostic-Analysis.ipynb`: Notebook containing the diagnostic analysis
-- `analysis-1-images/`: Visualizations from the descriptive analysis
-- `analysis-2-images/`: Visualizations from the diagnostic analysis
 - `data/`: Contains the AI job dataset
 - `exports/`: Excel exports of key findings and transformed data
 
