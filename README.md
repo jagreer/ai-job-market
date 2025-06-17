@@ -2,7 +2,7 @@
 date: "Monday June 16th, 2025"
 ---
 
-# AI Job Market Analysis 2024-2025
+# AI Job Market Analysis 2025
 
 ## Project Overview
 
