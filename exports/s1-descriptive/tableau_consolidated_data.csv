@@ -1,0 +1,725 @@
+job_id,job_title,salary_usd,experience_level,employment_type,company_size,industry,years_experience,benefits_score,remote_ratio,experience_level_name,employment_type_name,company_size_name
+AI00022,Autonomous Systems Engineer,102550,MI,PT,M,Automotive,2,10.0,0,Mid-level,Part-Time,Medium
+AI00041,Data Scientist,96956,MI,FT,M,Telecommunications,2,5.3,0,Mid-level,Full-Time,Medium
+AI00042,AI Architect,196954,SE,FL,L,Finance,8,7.5,50,Senior,Freelance,Large
+AI00046,AI Research Scientist,174663,SE,CT,M,Media,7,5.4,50,Senior,Contract,Medium
+AI00053,Research Scientist,106579,MI,PT,S,Gaming,3,5.4,100,Mid-level,Part-Time,Small
+AI00080,AI Research Scientist,284486,EX,CT,M,Consulting,12,7.0,0,Executive,Contract,Medium
+AI00088,AI Specialist,69914,EN,FT,S,Transportation,0,7.0,100,Entry,Full-Time,Small
+AI00094,AI Research Scientist,111528,MI,FL,L,Real Estate,3,9.5,0,Mid-level,Freelance,Large
+AI00100,AI Research Scientist,195691,SE,CT,L,Transportation,8,8.7,0,Senior,Contract,Large
+AI00111,Machine Learning Researcher,205357,EX,PT,S,Education,18,6.6,100,Executive,Part-Time,Small
+AI00116,NLP Engineer,61055,EN,FL,M,Retail,0,6.9,100,Entry,Freelance,Medium
+AI00150,AI Specialist,115841,SE,FL,S,Healthcare,7,7.2,0,Senior,Freelance,Small
+AI00165,ML Ops Engineer,170139,SE,PT,L,Technology,5,9.6,50,Senior,Part-Time,Large
+AI00188,AI Specialist,98422,EN,PT,L,Transportation,0,9.4,0,Entry,Part-Time,Large
+AI00200,AI Product Manager,180252,SE,FT,L,Telecommunications,7,6.3,50,Senior,Full-Time,Large
+AI00227,AI Product Manager,159643,SE,PT,S,Gaming,5,5.3,100,Senior,Part-Time,Small
+AI00234,AI Research Scientist,173839,SE,FL,M,Government,5,5.1,100,Senior,Freelance,Medium
+AI00241,Research Scientist,120749,MI,FL,M,Retail,2,6.5,50,Mid-level,Freelance,Medium
+AI00248,Research Scientist,255678,EX,CT,M,Telecommunications,18,7.3,0,Executive,Contract,Medium
+AI00250,AI Research Scientist,146085,SE,FT,M,Technology,6,6.4,100,Senior,Full-Time,Medium
+AI00262,Principal Data Scientist,69807,EN,FT,L,Transportation,0,8.4,0,Entry,Full-Time,Large
+AI00266,AI Consultant,81885,MI,PT,S,Retail,3,9.0,0,Mid-level,Part-Time,Small
+AI00268,Robotics Engineer,133565,SE,PT,S,Media,5,8.0,100,Senior,Part-Time,Small
+AI00270,ML Ops Engineer,76875,EN,PT,M,Transportation,0,8.3,0,Entry,Part-Time,Medium
+AI00278,NLP Engineer,151610,SE,PT,L,Retail,5,5.3,100,Senior,Part-Time,Large
+AI00327,AI Architect,238449,EX,PT,M,Gaming,15,5.3,50,Executive,Part-Time,Medium
+AI00426,Autonomous Systems Engineer,101978,MI,FT,S,Media,3,8.9,0,Mid-level,Full-Time,Small
+AI00436,AI Software Engineer,100678,MI,FT,S,Automotive,4,6.5,100,Mid-level,Full-Time,Small
+AI00440,AI Software Engineer,94044,EN,PT,L,Healthcare,1,8.4,100,Entry,Part-Time,Large
+AI00476,Autonomous Systems Engineer,171987,SE,FL,M,Education,6,5.4,100,Senior,Freelance,Medium
+AI00483,AI Product Manager,170702,EX,FT,S,Retail,13,6.2,100,Executive,Full-Time,Small
+AI00532,AI Software Engineer,103806,MI,CT,L,Finance,3,8.3,100,Mid-level,Contract,Large
+AI00536,Data Scientist,65226,EN,FL,S,Consulting,0,8.2,100,Entry,Freelance,Small
+AI00578,Computer Vision Engineer,160078,SE,FL,L,Technology,5,7.4,50,Senior,Freelance,Large
+AI00584,Machine Learning Engineer,148848,SE,CT,S,Education,6,9.5,0,Senior,Contract,Small
+AI00591,AI Product Manager,106583,EN,FT,L,Real Estate,1,8.1,100,Entry,Full-Time,Large
+AI00605,AI Architect,146023,SE,FT,M,Finance,5,6.3,50,Senior,Full-Time,Medium
+AI00614,Data Scientist,99041,EN,CT,L,Consulting,1,9.2,50,Entry,Contract,Large
+AI00618,Machine Learning Researcher,109969,MI,CT,L,Media,4,5.6,100,Mid-level,Contract,Large
+AI00628,Data Scientist,133372,MI,FL,L,Transportation,4,9.9,50,Mid-level,Freelance,Large
+AI00662,AI Specialist,112606,MI,PT,M,Technology,2,9.7,50,Mid-level,Part-Time,Medium
+AI00675,Machine Learning Engineer,231074,EX,FL,L,Retail,17,7.4,0,Executive,Freelance,Large
+AI00696,Machine Learning Researcher,101302,EN,PT,L,Telecommunications,0,7.1,50,Entry,Part-Time,Large
+AI00738,Data Scientist,94854,EN,PT,M,Education,1,6.1,0,Entry,Part-Time,Medium
+AI00760,Data Engineer,166340,SE,FL,L,Retail,6,8.4,100,Senior,Freelance,Large
+AI00761,Principal Data Scientist,140497,SE,FL,S,Technology,7,7.5,50,Senior,Freelance,Small
+AI00776,Data Scientist,96225,MI,PT,M,Technology,4,9.9,50,Mid-level,Part-Time,Medium
+AI00783,Data Engineer,268001,EX,FT,S,Real Estate,11,9.4,0,Executive,Full-Time,Small
+AI00790,AI Research Scientist,86453,EN,PT,L,Energy,1,10.0,100,Entry,Part-Time,Large
+AI00793,Data Analyst,139082,SE,FL,S,Technology,9,5.1,100,Senior,Freelance,Small
+AI00814,Machine Learning Engineer,63794,EN,PT,S,Government,1,7.1,100,Entry,Part-Time,Small
+AI00820,AI Consultant,61684,EN,FT,S,Consulting,1,8.6,0,Entry,Full-Time,Small
+AI00837,AI Product Manager,123019,MI,CT,M,Healthcare,4,9.4,0,Mid-level,Contract,Medium
+AI00843,Principal Data Scientist,272996,EX,CT,M,Energy,11,8.7,100,Executive,Contract,Medium
+AI00858,AI Architect,73628,EN,FT,S,Energy,0,7.4,0,Entry,Full-Time,Small
+AI00869,Principal Data Scientist,68262,EN,PT,S,Healthcare,1,6.9,0,Entry,Part-Time,Small
+AI00888,ML Ops Engineer,79588,EN,FL,S,Technology,0,6.8,100,Entry,Freelance,Small
+AI00900,Machine Learning Researcher,206257,EX,CT,S,Media,16,5.6,100,Executive,Contract,Small
+AI00939,ML Ops Engineer,77274,EN,FT,S,Media,0,8.9,50,Entry,Full-Time,Small
+AI00968,AI Architect,140234,SE,CT,L,Government,6,6.2,0,Senior,Contract,Large
+AI00971,AI Research Scientist,206831,EX,PT,M,Government,10,5.3,100,Executive,Part-Time,Medium
+AI01007,Principal Data Scientist,85303,MI,PT,S,Media,3,5.4,100,Mid-level,Part-Time,Small
+AI01020,Data Analyst,108128,MI,FL,S,Government,2,9.2,50,Mid-level,Freelance,Small
+AI01057,Data Engineer,127936,MI,FT,L,Education,2,5.4,0,Mid-level,Full-Time,Large
+AI01059,ML Ops Engineer,264300,EX,FT,L,Technology,12,8.6,50,Executive,Full-Time,Large
+AI01123,Machine Learning Engineer,118816,SE,CT,S,Healthcare,6,5.3,100,Senior,Contract,Small
+AI01133,Data Scientist,89495,EN,FL,M,Retail,1,5.9,100,Entry,Freelance,Medium
+AI01162,AI Architect,191681,SE,FT,L,Energy,7,9.1,50,Senior,Full-Time,Large
+AI01169,AI Consultant,88462,MI,FL,S,Gaming,3,8.6,100,Mid-level,Freelance,Small
+AI01176,Machine Learning Researcher,219210,EX,CT,M,Energy,11,7.4,100,Executive,Contract,Medium
+AI01255,Data Analyst,62143,EN,CT,M,Education,1,5.7,50,Entry,Contract,Medium
+AI01282,Machine Learning Engineer,142753,MI,CT,L,Education,2,10.0,100,Mid-level,Contract,Large
+AI01289,Autonomous Systems Engineer,197981,EX,FT,M,Finance,16,8.4,50,Executive,Full-Time,Medium
+AI01299,Data Analyst,159770,SE,FL,S,Transportation,6,8.3,0,Senior,Freelance,Small
+AI01320,AI Architect,190447,SE,PT,L,Energy,7,8.6,0,Senior,Part-Time,Large
+AI01363,AI Product Manager,78244,EN,FL,S,Healthcare,1,9.4,50,Entry,Freelance,Small
+AI01375,Data Analyst,103040,EN,CT,L,Consulting,1,9.6,0,Entry,Contract,Large
+AI01407,Machine Learning Researcher,275914,EX,PT,M,Education,11,6.7,0,Executive,Part-Time,Medium
+AI01448,Computer Vision Engineer,109585,MI,CT,S,Automotive,3,5.2,0,Mid-level,Contract,Small
+AI01450,AI Research Scientist,206448,EX,CT,S,Retail,11,6.1,100,Executive,Contract,Small
+AI01454,AI Architect,197656,EX,PT,M,Automotive,13,6.8,0,Executive,Part-Time,Medium
+AI01475,AI Product Manager,75610,EN,PT,M,Healthcare,1,8.9,100,Entry,Part-Time,Medium
+AI01514,Head of AI,236415,EX,FT,S,Government,17,5.4,50,Executive,Full-Time,Small
+AI01523,AI Product Manager,179544,EX,CT,S,Retail,17,6.1,100,Executive,Contract,Small
+AI01528,AI Research Scientist,94082,EN,PT,L,Healthcare,1,7.9,0,Entry,Part-Time,Large
+AI01575,Head of AI,139187,SE,FL,M,Consulting,9,8.0,0,Senior,Freelance,Medium
+AI01613,AI Consultant,74385,EN,CT,S,Transportation,1,6.4,0,Entry,Contract,Small
+AI01637,AI Product Manager,78059,EN,FL,S,Manufacturing,0,9.8,100,Entry,Freelance,Small
+AI01675,Head of AI,187375,EX,CT,L,Real Estate,11,6.1,50,Executive,Contract,Large
+AI01680,Data Scientist,116016,SE,PT,S,Retail,7,6.3,100,Senior,Part-Time,Small
+AI01681,Principal Data Scientist,96466,MI,CT,S,Government,2,6.2,0,Mid-level,Contract,Small
+AI01698,AI Architect,240150,EX,FL,M,Gaming,11,7.2,50,Executive,Freelance,Medium
+AI01715,Data Engineer,110941,MI,CT,L,Telecommunications,4,5.9,0,Mid-level,Contract,Large
+AI01728,Research Scientist,223202,EX,CT,L,Consulting,10,8.5,0,Executive,Contract,Large
+AI01744,AI Consultant,119598,MI,PT,M,Technology,4,7.7,100,Mid-level,Part-Time,Medium
+AI01755,AI Specialist,209331,EX,FT,L,Telecommunications,18,7.0,0,Executive,Full-Time,Large
+AI01785,NLP Engineer,109340,MI,FT,M,Energy,2,7.2,0,Mid-level,Full-Time,Medium
+AI01787,Machine Learning Engineer,125758,MI,CT,L,Retail,4,9.9,100,Mid-level,Contract,Large
+AI01806,Machine Learning Researcher,284282,EX,FT,L,Consulting,13,7.1,0,Executive,Full-Time,Large
+AI01905,Principal Data Scientist,108843,EN,FL,L,Education,1,6.2,0,Entry,Freelance,Large
+AI01971,Data Analyst,81594,EN,CT,L,Transportation,1,8.5,0,Entry,Contract,Large
+AI02014,Machine Learning Engineer,145626,SE,CT,M,Healthcare,9,9.5,50,Senior,Contract,Medium
+AI02020,AI Specialist,198340,EX,PT,L,Transportation,13,8.8,100,Executive,Part-Time,Large
+AI02028,Computer Vision Engineer,295058,EX,CT,L,Manufacturing,18,5.6,0,Executive,Contract,Large
+AI02029,Autonomous Systems Engineer,128911,MI,CT,M,Energy,4,8.3,50,Mid-level,Contract,Medium
+AI02033,Data Analyst,85852,EN,FT,L,Technology,0,8.7,50,Entry,Full-Time,Large
+AI02048,Data Engineer,87139,EN,CT,M,Retail,1,6.7,100,Entry,Contract,Medium
+AI02097,Deep Learning Engineer,175364,EX,CT,S,Finance,11,6.1,0,Executive,Contract,Small
+AI02102,AI Consultant,266051,EX,FL,M,Energy,16,7.6,100,Executive,Freelance,Medium
+AI02106,Machine Learning Researcher,97999,MI,FL,M,Manufacturing,2,6.5,50,Mid-level,Freelance,Medium
+AI02127,Data Engineer,71084,EN,FT,S,Gaming,1,9.8,100,Entry,Full-Time,Small
+AI02150,AI Product Manager,144181,SE,PT,L,Transportation,8,7.6,100,Senior,Part-Time,Large
+AI02165,Head of AI,237312,EX,FL,L,Gaming,12,7.4,0,Executive,Freelance,Large
+AI02178,Autonomous Systems Engineer,75835,EN,FL,L,Consulting,1,9.3,0,Entry,Freelance,Large
+AI02228,Research Scientist,76846,EN,FT,S,Retail,0,8.3,100,Entry,Full-Time,Small
+AI02230,Deep Learning Engineer,113366,MI,FL,L,Retail,2,5.2,50,Mid-level,Freelance,Large
+AI02232,Head of AI,79228,EN,FT,S,Real Estate,0,8.1,50,Entry,Full-Time,Small
+AI02240,ML Ops Engineer,127193,MI,CT,M,Real Estate,4,7.9,50,Mid-level,Contract,Medium
+AI02245,Research Scientist,113629,MI,FT,S,Education,4,5.7,100,Mid-level,Full-Time,Small
+AI02255,Computer Vision Engineer,188500,EX,FT,M,Gaming,12,9.5,50,Executive,Full-Time,Medium
+AI02297,AI Specialist,109004,MI,FT,L,Manufacturing,3,8.6,0,Mid-level,Full-Time,Large
+AI02325,Data Scientist,108968,MI,PT,S,Energy,2,5.7,50,Mid-level,Part-Time,Small
+AI02326,AI Product Manager,76903,EN,PT,M,Technology,0,8.0,0,Entry,Part-Time,Medium
+AI02332,Data Analyst,211934,EX,CT,S,Energy,12,8.8,50,Executive,Contract,Small
+AI02472,Machine Learning Engineer,146531,SE,FT,S,Automotive,6,8.0,0,Senior,Full-Time,Small
+AI02535,Machine Learning Researcher,107206,MI,PT,L,Technology,2,8.1,0,Mid-level,Part-Time,Large
+AI02545,Data Scientist,91286,MI,FT,M,Gaming,2,8.8,50,Mid-level,Full-Time,Medium
+AI02548,Robotics Engineer,263846,EX,FT,S,Finance,11,9.3,0,Executive,Full-Time,Small
+AI02561,Head of AI,342272,EX,PT,L,Real Estate,18,5.7,50,Executive,Part-Time,Large
+AI02573,Robotics Engineer,170717,SE,CT,M,Healthcare,6,8.0,50,Senior,Contract,Medium
+AI02584,AI Specialist,100150,MI,FT,S,Energy,4,8.4,0,Mid-level,Full-Time,Small
+AI02606,Data Engineer,119490,MI,CT,L,Consulting,3,10.0,0,Mid-level,Contract,Large
+AI02639,AI Research Scientist,277303,EX,FT,L,Consulting,13,7.6,100,Executive,Full-Time,Large
+AI02651,Machine Learning Engineer,57234,EN,FT,S,Education,1,7.1,0,Entry,Full-Time,Small
+AI02664,Machine Learning Researcher,125276,MI,CT,M,Transportation,2,9.3,100,Mid-level,Contract,Medium
+AI02682,Deep Learning Engineer,178443,SE,FL,L,Technology,7,7.8,50,Senior,Freelance,Large
+AI02686,AI Software Engineer,161108,EX,CT,S,Education,10,5.7,0,Executive,Contract,Small
+AI02747,Machine Learning Engineer,80627,EN,FL,L,Consulting,1,10.0,50,Entry,Freelance,Large
+AI02752,Machine Learning Engineer,183861,EX,CT,M,Finance,13,8.1,100,Executive,Contract,Medium
+AI02776,AI Architect,112977,MI,FL,L,Healthcare,4,7.2,50,Mid-level,Freelance,Large
+AI02778,Autonomous Systems Engineer,138192,SE,FL,M,Technology,7,9.4,100,Senior,Freelance,Medium
+AI02823,AI Research Scientist,100577,MI,CT,L,Technology,2,7.8,100,Mid-level,Contract,Large
+AI02845,AI Specialist,107517,EN,FL,L,Energy,1,8.9,50,Entry,Freelance,Large
+AI02859,Data Scientist,77185,MI,CT,S,Energy,3,6.6,50,Mid-level,Contract,Small
+AI02860,Data Analyst,85957,MI,PT,M,Media,2,8.9,100,Mid-level,Part-Time,Medium
+AI02869,Principal Data Scientist,221496,EX,FT,L,Gaming,11,6.5,100,Executive,Full-Time,Large
+AI02883,Principal Data Scientist,76845,EN,CT,M,Manufacturing,0,7.6,50,Entry,Contract,Medium
+AI02924,AI Architect,120290,SE,FT,M,Media,9,5.7,50,Senior,Full-Time,Medium
+AI02951,Robotics Engineer,89266,EN,PT,M,Education,0,8.1,50,Entry,Part-Time,Medium
+AI02970,Autonomous Systems Engineer,224547,EX,FT,L,Energy,12,5.6,50,Executive,Full-Time,Large
+AI03030,AI Research Scientist,95467,MI,CT,S,Technology,3,8.2,0,Mid-level,Contract,Small
+AI03037,Robotics Engineer,144719,SE,FL,L,Manufacturing,9,9.0,100,Senior,Freelance,Large
+AI03042,AI Architect,235813,EX,FL,M,Energy,10,8.2,0,Executive,Freelance,Medium
+AI03060,AI Software Engineer,185661,EX,FT,S,Transportation,19,7.4,100,Executive,Full-Time,Small
+AI03063,Research Scientist,71629,EN,FL,S,Manufacturing,0,8.5,100,Entry,Freelance,Small
+AI03093,Deep Learning Engineer,249665,EX,FT,L,Education,15,9.4,100,Executive,Full-Time,Large
+AI03151,AI Consultant,287746,EX,PT,L,Retail,14,7.3,100,Executive,Part-Time,Large
+AI03185,Computer Vision Engineer,245881,EX,PT,M,Technology,16,8.7,100,Executive,Part-Time,Medium
+AI03221,AI Research Scientist,199358,SE,FT,L,Finance,9,5.4,0,Senior,Full-Time,Large
+AI03230,Data Scientist,76094,EN,FL,S,Technology,1,5.4,50,Entry,Freelance,Small
+AI03235,AI Software Engineer,161339,SE,FL,S,Retail,9,6.3,50,Senior,Freelance,Small
+AI03269,AI Specialist,271945,EX,FL,M,Manufacturing,16,8.4,0,Executive,Freelance,Medium
+AI03303,Research Scientist,71217,EN,FL,S,Transportation,1,5.1,0,Entry,Freelance,Small
+AI03305,Deep Learning Engineer,338443,EX,FL,L,Finance,11,5.6,0,Executive,Freelance,Large
+AI03313,AI Specialist,268894,EX,CT,L,Transportation,10,6.7,0,Executive,Contract,Large
+AI03333,NLP Engineer,69650,EN,PT,L,Manufacturing,1,8.4,100,Entry,Part-Time,Large
+AI03371,Robotics Engineer,334881,EX,FL,L,Government,13,9.7,0,Executive,Freelance,Large
+AI03429,AI Software Engineer,157167,SE,FL,M,Energy,5,8.9,100,Senior,Freelance,Medium
+AI03464,Data Engineer,62906,EN,PT,S,Media,1,9.4,100,Entry,Part-Time,Small
+AI03474,Machine Learning Researcher,79342,MI,PT,S,Government,4,7.7,0,Mid-level,Part-Time,Small
+AI03494,AI Software Engineer,62296,EN,CT,S,Automotive,1,9.2,0,Entry,Contract,Small
+AI03526,Head of AI,130032,MI,CT,L,Media,4,9.6,100,Mid-level,Contract,Large
+AI03535,NLP Engineer,139424,SE,CT,S,Finance,7,6.5,0,Senior,Contract,Small
+AI03542,Autonomous Systems Engineer,132731,SE,CT,S,Technology,7,6.6,50,Senior,Contract,Small
+AI03556,Research Scientist,177501,SE,CT,M,Education,7,6.2,0,Senior,Contract,Medium
+AI03582,Research Scientist,333499,EX,FL,L,Retail,19,8.8,50,Executive,Freelance,Large
+AI03594,AI Product Manager,303956,EX,FT,L,Government,10,7.8,100,Executive,Full-Time,Large
+AI03619,Deep Learning Engineer,218946,EX,FL,L,Real Estate,15,5.6,50,Executive,Freelance,Large
+AI03621,AI Research Scientist,117350,SE,FL,S,Energy,9,8.0,100,Senior,Freelance,Small
+AI03636,NLP Engineer,63660,EN,FL,S,Manufacturing,1,9.4,50,Entry,Freelance,Small
+AI03644,Principal Data Scientist,79396,MI,CT,S,Telecommunications,3,5.5,0,Mid-level,Contract,Small
+AI03656,Data Scientist,70305,EN,FL,M,Healthcare,0,5.5,50,Entry,Freelance,Medium
+AI03702,Robotics Engineer,85084,MI,FL,S,Automotive,3,6.9,0,Mid-level,Freelance,Small
+AI03714,AI Specialist,164169,SE,FT,L,Government,5,6.5,0,Senior,Full-Time,Large
+AI03733,Robotics Engineer,250761,EX,FL,M,Technology,13,7.9,100,Executive,Freelance,Medium
+AI03753,AI Software Engineer,99064,MI,FT,L,Energy,3,6.0,0,Mid-level,Full-Time,Large
+AI03844,NLP Engineer,188338,EX,FT,S,Consulting,15,9.3,100,Executive,Full-Time,Small
+AI03846,Data Scientist,235929,EX,FT,S,Automotive,19,6.0,50,Executive,Full-Time,Small
+AI03855,Autonomous Systems Engineer,156765,SE,FT,M,Consulting,6,5.9,50,Senior,Full-Time,Medium
+AI03886,Robotics Engineer,337306,EX,FT,L,Telecommunications,19,7.9,0,Executive,Full-Time,Large
+AI03934,Data Analyst,166199,EX,CT,M,Retail,15,8.9,0,Executive,Contract,Medium
+AI03940,Data Engineer,111135,MI,FT,S,Gaming,3,5.9,100,Mid-level,Full-Time,Small
+AI03947,Data Scientist,165564,SE,FT,M,Transportation,7,6.6,50,Senior,Full-Time,Medium
+AI03964,AI Architect,119240,MI,FT,L,Media,4,8.9,0,Mid-level,Full-Time,Large
+AI03995,AI Research Scientist,170703,SE,CT,L,Retail,5,6.4,0,Senior,Contract,Large
+AI04026,Autonomous Systems Engineer,108449,MI,FL,M,Consulting,2,6.4,50,Mid-level,Freelance,Medium
+AI04083,AI Software Engineer,148050,SE,PT,L,Education,7,5.6,50,Senior,Part-Time,Large
+AI04103,Data Scientist,175537,SE,CT,L,Telecommunications,5,8.8,100,Senior,Contract,Large
+AI04126,Research Scientist,149341,SE,FT,M,Consulting,8,8.4,0,Senior,Full-Time,Medium
+AI04147,Robotics Engineer,124928,SE,FT,M,Media,9,6.5,50,Senior,Full-Time,Medium
+AI04179,Data Engineer,110554,MI,CT,S,Consulting,3,5.1,100,Mid-level,Contract,Small
+AI04245,Principal Data Scientist,169855,SE,FT,M,Technology,7,8.4,100,Senior,Full-Time,Medium
+AI04262,AI Architect,160162,EX,FT,M,Telecommunications,14,5.9,0,Executive,Full-Time,Medium
+AI04273,AI Product Manager,183624,SE,PT,L,Government,7,8.0,100,Senior,Part-Time,Large
+AI04305,Data Analyst,336904,EX,CT,L,Automotive,16,8.3,0,Executive,Contract,Large
+AI04311,AI Research Scientist,79685,EN,PT,S,Automotive,0,9.4,0,Entry,Part-Time,Small
+AI04314,ML Ops Engineer,213820,EX,FT,M,Transportation,10,5.7,0,Executive,Full-Time,Medium
+AI04333,AI Architect,243179,EX,CT,S,Gaming,17,6.7,50,Executive,Contract,Small
+AI04349,Principal Data Scientist,128234,MI,PT,L,Finance,4,8.6,0,Mid-level,Part-Time,Large
+AI04373,Autonomous Systems Engineer,141172,SE,PT,S,Gaming,8,9.0,0,Senior,Part-Time,Small
+AI04408,Robotics Engineer,115416,MI,PT,S,Government,4,7.8,50,Mid-level,Part-Time,Small
+AI04451,Head of AI,92711,EN,CT,L,Education,1,9.8,100,Entry,Contract,Large
+AI04454,AI Specialist,143776,SE,FT,M,Real Estate,7,5.7,50,Senior,Full-Time,Medium
+AI04460,Deep Learning Engineer,133950,SE,CT,S,Consulting,9,8.0,100,Senior,Contract,Small
+AI04480,Robotics Engineer,96034,EN,FL,L,Technology,1,7.4,0,Entry,Freelance,Large
+AI04492,AI Product Manager,239601,EX,FT,S,Real Estate,13,9.0,50,Executive,Full-Time,Small
+AI04511,NLP Engineer,196418,EX,FT,M,Manufacturing,15,9.9,100,Executive,Full-Time,Medium
+AI04535,AI Specialist,198536,EX,CT,M,Education,14,8.9,0,Executive,Contract,Medium
+AI04543,AI Product Manager,195397,SE,FT,L,Consulting,7,6.7,50,Senior,Full-Time,Large
+AI04546,Computer Vision Engineer,152500,SE,FL,M,Education,6,7.0,0,Senior,Freelance,Medium
+AI04596,Deep Learning Engineer,204974,EX,CT,S,Media,14,8.3,0,Executive,Contract,Small
+AI04668,AI Architect,121527,SE,CT,S,Manufacturing,8,6.2,100,Senior,Contract,Small
+AI04708,Machine Learning Researcher,265991,EX,CT,S,Education,17,5.4,0,Executive,Contract,Small
+AI04767,AI Product Manager,124367,SE,PT,M,Telecommunications,8,5.6,0,Senior,Part-Time,Medium
+AI04786,ML Ops Engineer,262069,EX,CT,S,Education,16,9.0,0,Executive,Contract,Small
+AI04801,AI Specialist,106139,MI,FT,M,Government,2,9.7,50,Mid-level,Full-Time,Medium
+AI04808,Autonomous Systems Engineer,119986,MI,FT,M,Manufacturing,4,5.0,100,Mid-level,Full-Time,Medium
+AI04834,Data Analyst,122001,SE,CT,M,Transportation,6,8.6,100,Senior,Contract,Medium
+AI04893,Data Analyst,107436,MI,FL,L,Transportation,4,8.5,0,Mid-level,Freelance,Large
+AI04920,Data Engineer,122517,MI,PT,L,Automotive,4,9.3,0,Mid-level,Part-Time,Large
+AI04923,Deep Learning Engineer,129699,MI,PT,L,Finance,2,7.1,0,Mid-level,Part-Time,Large
+AI04926,AI Software Engineer,123935,MI,FT,L,Government,2,5.6,50,Mid-level,Full-Time,Large
+AI04931,AI Architect,121458,SE,CT,S,Government,8,8.9,0,Senior,Contract,Small
+AI04945,AI Specialist,120914,MI,FL,M,Automotive,4,7.8,0,Mid-level,Freelance,Medium
+AI04984,Research Scientist,139402,SE,PT,M,Retail,6,5.1,0,Senior,Part-Time,Medium
+AI04996,AI Specialist,110450,MI,FL,M,Consulting,3,6.5,0,Mid-level,Freelance,Medium
+AI05007,Principal Data Scientist,172202,SE,FL,M,Energy,8,6.7,100,Senior,Freelance,Medium
+AI05015,NLP Engineer,126229,MI,CT,L,Healthcare,3,9.4,100,Mid-level,Contract,Large
+AI05023,AI Architect,104098,MI,FL,L,Consulting,3,7.1,0,Mid-level,Freelance,Large
+AI05047,Data Analyst,106633,MI,PT,M,Gaming,4,8.6,100,Mid-level,Part-Time,Medium
+AI05064,Data Analyst,66941,EN,FT,M,Automotive,1,8.2,0,Entry,Full-Time,Medium
+AI05095,Head of AI,288318,EX,CT,M,Gaming,18,6.3,50,Executive,Contract,Medium
+AI05100,Autonomous Systems Engineer,161632,SE,FL,M,Automotive,6,9.4,50,Senior,Freelance,Medium
+AI05112,Data Analyst,110448,MI,FL,S,Energy,3,9.1,50,Mid-level,Freelance,Small
+AI05118,Robotics Engineer,90425,MI,FT,S,Technology,2,5.6,50,Mid-level,Full-Time,Small
+AI05121,AI Research Scientist,69679,EN,PT,M,Energy,1,6.0,0,Entry,Part-Time,Medium
+AI05125,Research Scientist,176189,SE,CT,M,Energy,6,5.1,50,Senior,Contract,Medium
+AI05138,Head of AI,258989,EX,FT,S,Gaming,16,9.9,0,Executive,Full-Time,Small
+AI05153,AI Research Scientist,139872,SE,FT,L,Automotive,6,9.0,100,Senior,Full-Time,Large
+AI05176,Machine Learning Researcher,179290,EX,FT,S,Telecommunications,11,8.0,0,Executive,Full-Time,Small
+AI05236,Data Analyst,168972,SE,CT,M,Real Estate,8,7.5,50,Senior,Contract,Medium
+AI05242,Machine Learning Engineer,136611,SE,FL,M,Retail,5,8.7,50,Senior,Freelance,Medium
+AI05261,Research Scientist,130960,SE,FL,M,Energy,9,9.1,0,Senior,Freelance,Medium
+AI05274,Data Scientist,152623,SE,PT,M,Real Estate,7,8.4,100,Senior,Part-Time,Medium
+AI05283,Data Engineer,69059,EN,FT,M,Media,0,6.7,0,Entry,Full-Time,Medium
+AI05301,Computer Vision Engineer,257729,EX,PT,M,Government,12,6.5,100,Executive,Part-Time,Medium
+AI05310,Machine Learning Researcher,168195,SE,FL,L,Manufacturing,6,5.4,100,Senior,Freelance,Large
+AI05311,ML Ops Engineer,120917,SE,FL,M,Manufacturing,8,8.0,0,Senior,Freelance,Medium
+AI05319,Autonomous Systems Engineer,241233,EX,CT,L,Technology,14,7.8,50,Executive,Contract,Large
+AI05320,AI Consultant,172071,SE,CT,L,Real Estate,7,5.8,100,Senior,Contract,Large
+AI05338,Machine Learning Researcher,91364,EN,PT,L,Education,0,6.9,100,Entry,Part-Time,Large
+AI05392,Machine Learning Engineer,120590,SE,FT,M,Finance,8,6.3,50,Senior,Full-Time,Medium
+AI05400,Computer Vision Engineer,162870,SE,PT,L,Telecommunications,5,9.3,100,Senior,Part-Time,Large
+AI05414,NLP Engineer,177967,EX,CT,S,Retail,10,6.5,100,Executive,Contract,Small
+AI05423,AI Consultant,88837,MI,FL,M,Energy,3,8.2,100,Mid-level,Freelance,Medium
+AI05427,ML Ops Engineer,69279,EN,FT,S,Gaming,0,6.0,50,Entry,Full-Time,Small
+AI05470,Robotics Engineer,81981,MI,FL,S,Telecommunications,3,7.6,100,Mid-level,Freelance,Small
+AI05476,Machine Learning Engineer,228744,EX,FT,L,Transportation,17,6.4,0,Executive,Full-Time,Large
+AI05480,Deep Learning Engineer,172269,EX,CT,M,Education,18,7.1,100,Executive,Contract,Medium
+AI05542,Autonomous Systems Engineer,187719,EX,CT,S,Media,15,7.8,0,Executive,Contract,Small
+AI05570,Robotics Engineer,56424,EN,FL,S,Energy,0,5.5,100,Entry,Freelance,Small
+AI05581,AI Architect,167167,EX,FT,M,Gaming,15,9.4,100,Executive,Full-Time,Medium
+AI05595,ML Ops Engineer,186649,SE,FL,L,Technology,8,6.2,100,Senior,Freelance,Large
+AI05596,Robotics Engineer,214097,EX,CT,S,Retail,10,8.0,100,Executive,Contract,Small
+AI05601,AI Architect,292471,EX,CT,M,Finance,18,7.4,100,Executive,Contract,Medium
+AI05633,AI Specialist,341883,EX,PT,L,Automotive,10,8.8,0,Executive,Part-Time,Large
+AI05674,NLP Engineer,150045,SE,FT,S,Gaming,6,9.7,50,Senior,Full-Time,Small
+AI05683,Data Engineer,144658,SE,PT,L,Automotive,9,7.8,0,Senior,Part-Time,Large
+AI05702,Deep Learning Engineer,155572,SE,FT,L,Telecommunications,8,7.2,50,Senior,Full-Time,Large
+AI05705,Data Analyst,112500,MI,FL,M,Consulting,4,6.0,50,Mid-level,Freelance,Medium
+AI05737,Research Scientist,228173,EX,PT,M,Media,16,7.5,100,Executive,Part-Time,Medium
+AI05752,Data Analyst,325119,EX,CT,L,Transportation,13,8.2,0,Executive,Contract,Large
+AI05804,Research Scientist,264874,EX,FL,L,Technology,14,8.3,100,Executive,Freelance,Large
+AI05811,NLP Engineer,138709,MI,PT,L,Energy,4,7.6,50,Mid-level,Part-Time,Large
+AI05822,Deep Learning Engineer,101619,MI,CT,L,Consulting,4,9.9,100,Mid-level,Contract,Large
+AI05825,Principal Data Scientist,98654,MI,PT,L,Government,2,5.4,50,Mid-level,Part-Time,Large
+AI05836,Principal Data Scientist,129593,MI,FL,M,Healthcare,2,9.5,0,Mid-level,Freelance,Medium
+AI05837,ML Ops Engineer,102142,MI,PT,M,Consulting,3,5.1,100,Mid-level,Part-Time,Medium
+AI05861,AI Specialist,205542,SE,CT,L,Education,8,6.2,100,Senior,Contract,Large
+AI05876,Data Engineer,144869,MI,FT,L,Telecommunications,2,7.8,50,Mid-level,Full-Time,Large
+AI05901,Head of AI,152763,EX,FL,S,Manufacturing,14,6.4,50,Executive,Freelance,Small
+AI05917,Autonomous Systems Engineer,259915,EX,CT,M,Consulting,10,8.2,100,Executive,Contract,Medium
+AI05924,Deep Learning Engineer,80847,EN,FT,M,Media,1,5.1,50,Entry,Full-Time,Medium
+AI05947,AI Product Manager,165700,EX,FL,M,Technology,18,7.1,50,Executive,Freelance,Medium
+AI05976,AI Architect,196550,EX,CT,L,Gaming,18,5.1,100,Executive,Contract,Large
+AI05989,Computer Vision Engineer,134416,MI,FT,L,Healthcare,3,7.1,50,Mid-level,Full-Time,Large
+AI06002,AI Research Scientist,114259,MI,CT,M,Education,3,6.2,100,Mid-level,Contract,Medium
+AI06029,Principal Data Scientist,85579,MI,FT,M,Government,4,7.3,0,Mid-level,Full-Time,Medium
+AI06041,Machine Learning Engineer,252062,EX,FL,S,Consulting,12,5.2,100,Executive,Freelance,Small
+AI06091,Data Engineer,94197,EN,FT,L,Energy,0,5.4,0,Entry,Full-Time,Large
+AI06095,AI Specialist,64058,EN,FT,S,Telecommunications,0,5.4,0,Entry,Full-Time,Small
+AI06097,AI Research Scientist,246594,EX,FL,M,Healthcare,16,8.7,0,Executive,Freelance,Medium
+AI06111,AI Product Manager,116468,MI,FT,S,Government,3,7.2,100,Mid-level,Full-Time,Small
+AI06128,Head of AI,94166,EN,PT,L,Media,1,9.7,0,Entry,Part-Time,Large
+AI06148,AI Product Manager,170400,SE,FT,L,Government,6,8.3,50,Senior,Full-Time,Large
+AI06159,Research Scientist,206183,SE,FT,L,Automotive,8,10.0,50,Senior,Full-Time,Large
+AI06170,Principal Data Scientist,74551,EN,FL,L,Real Estate,0,9.0,0,Entry,Freelance,Large
+AI06188,Autonomous Systems Engineer,150847,SE,FL,M,Consulting,7,8.8,100,Senior,Freelance,Medium
+AI06192,AI Consultant,76525,EN,FL,S,Government,1,7.8,0,Entry,Freelance,Small
+AI06205,Data Scientist,221753,EX,FT,L,Transportation,14,9.8,100,Executive,Full-Time,Large
+AI06226,Principal Data Scientist,79199,EN,PT,S,Finance,1,5.8,0,Entry,Part-Time,Small
+AI06228,Data Analyst,194251,SE,FL,L,Retail,7,9.5,100,Senior,Freelance,Large
+AI06242,Robotics Engineer,115644,MI,FL,S,Telecommunications,4,5.2,0,Mid-level,Freelance,Small
+AI06292,Computer Vision Engineer,131755,SE,FT,M,Real Estate,9,9.3,100,Senior,Full-Time,Medium
+AI06301,ML Ops Engineer,126348,MI,FT,L,Manufacturing,4,7.8,100,Mid-level,Full-Time,Large
+AI06303,AI Architect,188343,EX,FT,L,Consulting,13,7.7,50,Executive,Full-Time,Large
+AI06315,Data Scientist,70652,EN,CT,M,Manufacturing,0,6.9,50,Entry,Contract,Medium
+AI06361,Data Engineer,83974,EN,FL,L,Transportation,0,5.8,0,Entry,Freelance,Large
+AI06390,AI Research Scientist,80466,EN,CT,S,Transportation,0,8.6,100,Entry,Contract,Small
+AI06416,AI Specialist,66890,EN,CT,S,Automotive,1,8.9,50,Entry,Contract,Small
+AI06438,Data Scientist,104141,MI,CT,M,Technology,3,7.0,0,Mid-level,Contract,Medium
+AI06443,AI Research Scientist,100209,MI,CT,S,Retail,4,9.3,100,Mid-level,Contract,Small
+AI06448,AI Software Engineer,197473,EX,CT,M,Automotive,12,9.2,50,Executive,Contract,Medium
+AI06454,NLP Engineer,125422,MI,FL,M,Education,4,7.9,50,Mid-level,Freelance,Medium
+AI06495,Machine Learning Engineer,344427,EX,PT,L,Manufacturing,17,8.0,100,Executive,Part-Time,Large
+AI06496,AI Consultant,77644,EN,FL,M,Transportation,1,7.2,0,Entry,Freelance,Medium
+AI06512,AI Specialist,160384,EX,PT,S,Education,15,6.5,50,Executive,Part-Time,Small
+AI06519,NLP Engineer,106735,MI,FT,S,Healthcare,4,5.6,100,Mid-level,Full-Time,Small
+AI06522,AI Architect,241126,EX,FL,L,Consulting,16,5.8,50,Executive,Freelance,Large
+AI06529,Principal Data Scientist,211093,EX,PT,S,Retail,14,9.0,50,Executive,Part-Time,Small
+AI06569,Robotics Engineer,128063,MI,CT,M,Manufacturing,4,7.3,0,Mid-level,Contract,Medium
+AI06590,Machine Learning Engineer,165150,SE,PT,L,Transportation,7,9.5,50,Senior,Part-Time,Large
+AI06593,Machine Learning Engineer,120166,MI,FT,M,Media,3,8.2,100,Mid-level,Full-Time,Medium
+AI06604,Research Scientist,166527,SE,CT,L,Transportation,8,8.7,100,Senior,Contract,Large
+AI06617,Deep Learning Engineer,82225,EN,FL,M,Energy,0,9.4,100,Entry,Freelance,Medium
+AI06686,Data Analyst,76935,EN,FL,M,Consulting,0,9.0,50,Entry,Freelance,Medium
+AI06691,Robotics Engineer,82514,EN,CT,L,Consulting,1,6.3,0,Entry,Contract,Large
+AI06735,Principal Data Scientist,74095,EN,PT,S,Automotive,1,9.2,50,Entry,Part-Time,Small
+AI06765,ML Ops Engineer,144304,SE,CT,L,Technology,6,6.4,0,Senior,Contract,Large
+AI06778,Data Scientist,73171,EN,FT,L,Healthcare,1,6.9,50,Entry,Full-Time,Large
+AI06838,Data Scientist,196404,EX,FT,L,Consulting,19,6.1,50,Executive,Full-Time,Large
+AI06868,AI Specialist,160195,SE,PT,L,Manufacturing,5,8.9,100,Senior,Part-Time,Large
+AI06905,Autonomous Systems Engineer,129224,MI,FL,M,Healthcare,3,6.5,100,Mid-level,Freelance,Medium
+AI06907,Robotics Engineer,78557,EN,CT,S,Consulting,0,9.0,50,Entry,Contract,Small
+AI06936,Research Scientist,254532,EX,FL,L,Transportation,13,9.8,100,Executive,Freelance,Large
+AI06949,Autonomous Systems Engineer,145735,MI,FL,L,Education,2,6.7,0,Mid-level,Freelance,Large
+AI06976,AI Consultant,134033,MI,PT,L,Technology,3,5.9,100,Mid-level,Part-Time,Large
+AI06986,Principal Data Scientist,123565,SE,FL,M,Automotive,7,6.0,100,Senior,Freelance,Medium
+AI07045,AI Research Scientist,131033,SE,FT,S,Transportation,6,6.2,100,Senior,Full-Time,Small
+AI07083,AI Product Manager,202653,SE,FT,L,Retail,6,6.0,50,Senior,Full-Time,Large
+AI07086,Machine Learning Engineer,87965,EN,FT,L,Gaming,0,8.4,0,Entry,Full-Time,Large
+AI07100,AI Specialist,191955,EX,FL,S,Government,12,6.7,100,Executive,Freelance,Small
+AI07105,AI Consultant,80026,EN,FT,L,Telecommunications,1,9.6,0,Entry,Full-Time,Large
+AI07143,NLP Engineer,156521,SE,PT,L,Finance,8,9.5,100,Senior,Part-Time,Large
+AI07145,Robotics Engineer,223297,EX,PT,L,Energy,15,8.1,50,Executive,Part-Time,Large
+AI07156,AI Architect,295466,EX,PT,M,Manufacturing,11,5.3,50,Executive,Part-Time,Medium
+AI07177,Data Engineer,139759,SE,PT,M,Manufacturing,6,9.5,0,Senior,Part-Time,Medium
+AI07191,AI Specialist,101929,EN,CT,L,Healthcare,1,7.4,0,Entry,Contract,Large
+AI07207,Deep Learning Engineer,74870,EN,FL,M,Transportation,1,5.8,0,Entry,Freelance,Medium
+AI07217,AI Product Manager,129684,SE,FL,M,Transportation,6,6.6,0,Senior,Freelance,Medium
+AI07229,AI Architect,70238,EN,FL,S,Technology,1,9.2,100,Entry,Freelance,Small
+AI07270,Computer Vision Engineer,242002,EX,CT,M,Healthcare,17,9.8,50,Executive,Contract,Medium
+AI07382,Machine Learning Researcher,167633,SE,FL,M,Finance,5,6.2,100,Senior,Freelance,Medium
+AI07398,Data Scientist,100893,EN,PT,L,Education,1,9.2,0,Entry,Part-Time,Large
+AI07404,Data Engineer,235948,EX,FL,M,Automotive,19,9.2,0,Executive,Freelance,Medium
+AI07426,Deep Learning Engineer,271783,EX,FL,L,Retail,10,9.7,50,Executive,Freelance,Large
+AI07433,Research Scientist,105608,MI,FL,L,Finance,4,6.7,50,Mid-level,Freelance,Large
+AI07454,Head of AI,155430,SE,CT,L,Consulting,6,5.5,50,Senior,Contract,Large
+AI07458,Data Analyst,178054,SE,PT,L,Technology,8,6.3,0,Senior,Part-Time,Large
+AI07466,Head of AI,88025,MI,CT,M,Transportation,4,6.8,50,Mid-level,Contract,Medium
+AI07560,AI Consultant,213258,EX,FL,S,Technology,13,6.0,100,Executive,Freelance,Small
+AI07567,AI Research Scientist,101191,MI,CT,S,Automotive,3,9.9,0,Mid-level,Contract,Small
+AI07599,Research Scientist,105448,MI,CT,S,Manufacturing,2,7.4,100,Mid-level,Contract,Small
+AI07600,Autonomous Systems Engineer,85149,EN,CT,M,Energy,0,5.6,50,Entry,Contract,Medium
+AI07604,AI Software Engineer,128048,SE,FT,M,Real Estate,9,9.9,50,Senior,Full-Time,Medium
+AI07607,Data Scientist,128240,MI,CT,L,Healthcare,2,5.6,50,Mid-level,Contract,Large
+AI07614,Head of AI,85456,EN,PT,L,Education,1,5.7,0,Entry,Part-Time,Large
+AI07625,AI Software Engineer,103217,EN,FT,L,Transportation,0,6.2,0,Entry,Full-Time,Large
+AI07629,Data Analyst,105534,EN,FL,L,Automotive,1,8.8,0,Entry,Freelance,Large
+AI07632,Autonomous Systems Engineer,138714,SE,FL,M,Manufacturing,9,7.5,100,Senior,Freelance,Medium
+AI07664,Robotics Engineer,67848,EN,CT,S,Healthcare,1,6.8,50,Entry,Contract,Small
+AI07674,NLP Engineer,135921,SE,FT,S,Retail,6,8.5,100,Senior,Full-Time,Small
+AI07728,Machine Learning Engineer,143497,SE,FL,M,Technology,5,8.3,50,Senior,Freelance,Medium
+AI07730,AI Research Scientist,198149,EX,FL,L,Consulting,19,8.0,50,Executive,Freelance,Large
+AI07737,AI Product Manager,196089,EX,CT,M,Technology,12,7.8,50,Executive,Contract,Medium
+AI07754,Data Analyst,188300,SE,CT,L,Energy,7,6.3,0,Senior,Contract,Large
+AI07757,AI Consultant,112582,MI,FL,S,Finance,2,6.8,0,Mid-level,Freelance,Small
+AI07769,Computer Vision Engineer,124958,MI,FT,L,Healthcare,3,6.7,100,Mid-level,Full-Time,Large
+AI07795,Data Engineer,127768,MI,FT,L,Transportation,4,8.6,100,Mid-level,Full-Time,Large
+AI07836,AI Specialist,86860,EN,FL,L,Automotive,0,5.6,0,Entry,Freelance,Large
+AI07840,AI Specialist,200644,EX,FL,S,Gaming,13,9.2,0,Executive,Freelance,Small
+AI07858,Autonomous Systems Engineer,108752,MI,FT,L,Transportation,3,6.2,100,Mid-level,Full-Time,Large
+AI07863,AI Software Engineer,200943,EX,FT,M,Finance,10,5.6,0,Executive,Full-Time,Medium
+AI07877,Head of AI,70667,EN,CT,S,Consulting,1,7.1,100,Entry,Contract,Small
+AI07883,Robotics Engineer,163837,EX,CT,S,Finance,11,6.3,50,Executive,Contract,Small
+AI07886,Data Analyst,91469,MI,CT,M,Education,4,8.2,0,Mid-level,Contract,Medium
+AI07903,Principal Data Scientist,131026,SE,CT,S,Education,8,7.2,0,Senior,Contract,Small
+AI07939,AI Software Engineer,99582,MI,FL,S,Manufacturing,2,8.5,100,Mid-level,Freelance,Small
+AI08079,AI Research Scientist,161789,SE,CT,M,Consulting,8,8.5,50,Senior,Contract,Medium
+AI08091,Research Scientist,95420,MI,FL,M,Telecommunications,3,6.3,0,Mid-level,Freelance,Medium
+AI08105,Data Scientist,242800,EX,FT,L,Government,19,9.2,50,Executive,Full-Time,Large
+AI08141,Head of AI,163845,SE,PT,M,Healthcare,5,8.6,0,Senior,Part-Time,Medium
+AI08142,Head of AI,333453,EX,FL,L,Retail,16,6.5,100,Executive,Freelance,Large
+AI08144,Data Engineer,108792,EN,FT,L,Energy,1,6.5,50,Entry,Full-Time,Large
+AI08159,Research Scientist,196977,SE,PT,L,Finance,6,9.2,50,Senior,Part-Time,Large
+AI08177,Autonomous Systems Engineer,85781,MI,FT,M,Media,2,7.7,0,Mid-level,Full-Time,Medium
+AI08199,NLP Engineer,229837,EX,FT,M,Finance,16,6.5,0,Executive,Full-Time,Medium
+AI08208,AI Consultant,137124,SE,FL,S,Transportation,6,9.7,0,Senior,Freelance,Small
+AI08219,Machine Learning Researcher,79146,EN,FT,M,Technology,0,9.6,50,Entry,Full-Time,Medium
+AI08224,AI Research Scientist,91766,MI,PT,S,Media,3,5.3,0,Mid-level,Part-Time,Small
+AI08234,Research Scientist,62960,EN,FL,M,Transportation,0,5.4,50,Entry,Freelance,Medium
+AI08249,AI Research Scientist,111829,SE,FT,S,Retail,8,8.5,0,Senior,Full-Time,Small
+AI08270,AI Product Manager,226237,EX,CT,L,Media,17,9.4,50,Executive,Contract,Large
+AI08272,Data Scientist,206671,SE,FT,L,Media,8,5.4,0,Senior,Full-Time,Large
+AI08283,Deep Learning Engineer,149701,EX,FT,S,Gaming,12,5.7,50,Executive,Full-Time,Small
+AI08307,Robotics Engineer,147062,SE,CT,S,Real Estate,6,5.3,0,Senior,Contract,Small
+AI08320,ML Ops Engineer,91074,EN,PT,M,Healthcare,1,6.6,50,Entry,Part-Time,Medium
+AI08343,Head of AI,84874,EN,FL,L,Media,0,8.0,50,Entry,Freelance,Large
+AI08346,Machine Learning Researcher,254546,EX,FT,M,Retail,17,9.0,50,Executive,Full-Time,Medium
+AI08402,AI Specialist,73888,EN,PT,M,Gaming,1,8.9,100,Entry,Part-Time,Medium
+AI08405,AI Architect,153245,SE,FL,M,Transportation,5,9.2,0,Senior,Freelance,Medium
+AI08455,Deep Learning Engineer,128834,MI,FL,M,Energy,3,5.1,0,Mid-level,Freelance,Medium
+AI08486,Deep Learning Engineer,251576,EX,CT,L,Technology,10,6.6,100,Executive,Contract,Large
+AI08502,AI Specialist,165249,SE,CT,L,Automotive,6,9.7,50,Senior,Contract,Large
+AI08521,Robotics Engineer,71226,EN,FT,S,Government,0,8.6,100,Entry,Full-Time,Small
+AI08543,AI Consultant,157668,SE,FL,L,Energy,7,6.5,0,Senior,Freelance,Large
+AI08554,AI Software Engineer,82586,EN,PT,L,Energy,0,9.8,0,Entry,Part-Time,Large
+AI08556,AI Specialist,92683,MI,FT,S,Energy,3,6.6,50,Mid-level,Full-Time,Small
+AI08562,Computer Vision Engineer,205464,EX,FT,S,Education,16,5.7,0,Executive,Full-Time,Small
+AI08602,Principal Data Scientist,118751,MI,CT,M,Transportation,3,9.2,100,Mid-level,Contract,Medium
+AI08643,Data Analyst,88503,EN,PT,L,Transportation,1,9.2,50,Entry,Part-Time,Large
+AI08696,Research Scientist,158041,SE,FL,L,Education,7,8.9,50,Senior,Freelance,Large
+AI08697,Principal Data Scientist,97247,MI,FL,S,Media,4,5.3,50,Mid-level,Freelance,Small
+AI08788,AI Architect,102471,MI,CT,M,Telecommunications,4,6.9,100,Mid-level,Contract,Medium
+AI08807,AI Software Engineer,262522,EX,CT,M,Real Estate,17,8.4,0,Executive,Contract,Medium
+AI08808,AI Software Engineer,182055,SE,PT,L,Telecommunications,9,5.4,100,Senior,Part-Time,Large
+AI08836,AI Specialist,181422,SE,FT,L,Healthcare,9,8.4,0,Senior,Full-Time,Large
+AI08886,Research Scientist,72130,EN,FL,M,Telecommunications,1,7.3,100,Entry,Freelance,Medium
+AI08898,Autonomous Systems Engineer,161002,SE,FL,L,Real Estate,9,9.2,50,Senior,Freelance,Large
+AI08919,Data Engineer,147558,SE,PT,M,Automotive,6,9.9,50,Senior,Part-Time,Medium
+AI08942,NLP Engineer,114816,MI,PT,M,Telecommunications,4,8.7,50,Mid-level,Part-Time,Medium
+AI08953,AI Research Scientist,93642,EN,FT,L,Consulting,0,5.7,0,Entry,Full-Time,Large
+AI08954,Computer Vision Engineer,165208,SE,FT,M,Energy,8,7.3,50,Senior,Full-Time,Medium
+AI08965,Principal Data Scientist,93535,EN,FT,L,Transportation,1,9.0,0,Entry,Full-Time,Large
+AI08972,AI Product Manager,122978,MI,CT,L,Finance,3,5.7,0,Mid-level,Contract,Large
+AI08985,Machine Learning Researcher,205814,EX,FL,S,Transportation,16,7.4,0,Executive,Freelance,Small
+AI08996,NLP Engineer,84304,EN,FL,S,Education,1,5.2,100,Entry,Freelance,Small
+AI09008,Machine Learning Researcher,92066,MI,PT,M,Real Estate,3,5.6,50,Mid-level,Part-Time,Medium
+AI09036,Data Analyst,118123,MI,PT,M,Retail,3,5.6,100,Mid-level,Part-Time,Medium
+AI09068,Head of AI,343803,EX,FL,L,Government,19,9.5,50,Executive,Freelance,Large
+AI09093,Principal Data Scientist,252916,EX,CT,L,Consulting,12,6.6,100,Executive,Contract,Large
+AI09106,Deep Learning Engineer,129701,MI,PT,L,Telecommunications,4,6.4,100,Mid-level,Part-Time,Large
+AI09142,AI Consultant,77772,MI,FL,S,Healthcare,3,5.2,0,Mid-level,Freelance,Small
+AI09143,Head of AI,149281,MI,CT,L,Government,2,5.4,0,Mid-level,Contract,Large
+AI09172,Head of AI,78857,EN,PT,S,Government,1,8.1,0,Entry,Part-Time,Small
+AI09184,Data Analyst,77785,EN,FT,S,Manufacturing,0,5.5,50,Entry,Full-Time,Small
+AI09199,AI Consultant,87393,MI,FT,M,Media,2,6.2,100,Mid-level,Full-Time,Medium
+AI09214,AI Research Scientist,126294,MI,FL,L,Finance,4,8.0,50,Mid-level,Freelance,Large
+AI09226,Machine Learning Researcher,201093,EX,CT,S,Transportation,19,8.0,50,Executive,Contract,Small
+AI09228,Research Scientist,86424,EN,PT,M,Manufacturing,1,5.5,0,Entry,Part-Time,Medium
+AI09249,Data Engineer,110342,SE,PT,S,Real Estate,8,7.8,100,Senior,Part-Time,Small
+AI09257,Deep Learning Engineer,71649,EN,FT,L,Retail,1,7.7,0,Entry,Full-Time,Large
+AI09288,Data Analyst,166659,EX,FT,M,Consulting,18,8.8,50,Executive,Full-Time,Medium
+AI09292,Data Engineer,93342,MI,CT,S,Government,2,6.3,0,Mid-level,Contract,Small
+AI09306,AI Consultant,128378,SE,PT,S,Manufacturing,7,6.5,50,Senior,Part-Time,Small
+AI09314,Data Scientist,264666,EX,FT,S,Finance,10,9.3,100,Executive,Full-Time,Small
+AI09324,Deep Learning Engineer,68035,EN,CT,M,Manufacturing,0,7.6,50,Entry,Contract,Medium
+AI09326,AI Product Manager,112827,MI,PT,S,Government,2,7.8,50,Mid-level,Part-Time,Small
+AI09354,Machine Learning Researcher,96605,MI,CT,M,Transportation,4,9.3,50,Mid-level,Contract,Medium
+AI09365,Data Scientist,65486,EN,PT,M,Transportation,0,9.6,0,Entry,Part-Time,Medium
+AI09392,AI Specialist,81881,EN,FL,L,Energy,1,8.8,0,Entry,Freelance,Large
+AI09424,AI Product Manager,88007,MI,PT,S,Education,2,7.4,100,Mid-level,Part-Time,Small
+AI09432,Computer Vision Engineer,75675,EN,FL,L,Consulting,0,5.4,0,Entry,Freelance,Large
+AI09446,Data Scientist,69639,EN,FL,L,Energy,1,6.7,50,Entry,Freelance,Large
+AI09447,Data Scientist,323188,EX,PT,L,Automotive,16,9.1,100,Executive,Part-Time,Large
+AI09472,Data Engineer,89214,MI,CT,M,Consulting,4,8.6,100,Mid-level,Contract,Medium
+AI09503,AI Product Manager,71737,EN,CT,S,Manufacturing,1,7.9,50,Entry,Contract,Small
+AI09524,Data Analyst,89120,MI,PT,M,Manufacturing,4,6.6,0,Mid-level,Part-Time,Medium
+AI09549,AI Consultant,113790,MI,FT,L,Real Estate,2,7.8,0,Mid-level,Full-Time,Large
+AI09562,AI Research Scientist,175456,EX,FL,S,Automotive,19,7.8,100,Executive,Freelance,Small
+AI09584,Data Engineer,64652,EN,PT,M,Education,0,5.1,0,Entry,Part-Time,Medium
+AI09626,AI Consultant,150491,SE,FT,L,Media,7,6.4,100,Senior,Full-Time,Large
+AI09692,AI Software Engineer,281132,EX,PT,M,Retail,17,9.2,100,Executive,Part-Time,Medium
+AI09714,Head of AI,272950,EX,PT,L,Government,17,7.6,100,Executive,Part-Time,Large
+AI09750,Data Scientist,175391,SE,CT,M,Telecommunications,7,9.7,50,Senior,Contract,Medium
+AI09781,Principal Data Scientist,79383,EN,FT,L,Retail,0,8.5,50,Entry,Full-Time,Large
+AI09787,ML Ops Engineer,137878,SE,PT,S,Finance,8,6.2,50,Senior,Part-Time,Small
+AI09806,Data Analyst,158629,SE,FL,S,Transportation,8,7.5,0,Senior,Freelance,Small
+AI09835,AI Software Engineer,132939,SE,FT,S,Retail,7,7.3,0,Senior,Full-Time,Small
+AI09860,Computer Vision Engineer,314917,EX,CT,L,Technology,19,6.9,50,Executive,Contract,Large
+AI09962,Deep Learning Engineer,68567,EN,FL,M,Telecommunications,0,7.5,50,Entry,Freelance,Medium
+AI09968,Data Scientist,102328,MI,FT,L,Retail,4,6.2,0,Mid-level,Full-Time,Large
+AI09972,Autonomous Systems Engineer,116690,MI,FL,S,Telecommunications,4,9.7,100,Mid-level,Freelance,Small
+AI10007,AI Software Engineer,105730,EN,FL,L,Consulting,0,9.1,0,Entry,Freelance,Large
+AI10012,AI Software Engineer,76020,EN,CT,S,Telecommunications,0,9.0,50,Entry,Contract,Small
+AI10023,NLP Engineer,269578,EX,PT,S,Consulting,12,9.7,50,Executive,Part-Time,Small
+AI10072,Head of AI,101036,MI,FL,M,Real Estate,4,5.1,50,Mid-level,Freelance,Medium
+AI10131,Head of AI,143399,MI,PT,L,Retail,3,9.5,100,Mid-level,Part-Time,Large
+AI10150,AI Product Manager,133606,SE,CT,S,Gaming,5,5.8,0,Senior,Contract,Small
+AI10178,Principal Data Scientist,83345,EN,CT,L,Manufacturing,0,5.7,0,Entry,Contract,Large
+AI10223,Machine Learning Engineer,72617,EN,CT,S,Automotive,1,7.3,100,Entry,Contract,Small
+AI10238,Robotics Engineer,160731,SE,PT,S,Real Estate,6,9.8,0,Senior,Part-Time,Small
+AI10239,NLP Engineer,142025,SE,FT,M,Technology,8,5.9,0,Senior,Full-Time,Medium
+AI10255,AI Specialist,288145,EX,PT,L,Government,17,8.4,100,Executive,Part-Time,Large
+AI10321,Research Scientist,154588,SE,CT,S,Education,8,9.8,50,Senior,Contract,Small
+AI10338,AI Software Engineer,262898,EX,CT,M,Education,15,8.5,100,Executive,Contract,Medium
+AI10358,Autonomous Systems Engineer,75944,EN,FL,M,Manufacturing,0,5.7,100,Entry,Freelance,Medium
+AI10365,Machine Learning Researcher,83296,EN,CT,S,Retail,0,6.3,0,Entry,Contract,Small
+AI10397,AI Architect,265466,EX,FT,M,Finance,16,6.1,0,Executive,Full-Time,Medium
+AI10408,NLP Engineer,88316,MI,FL,M,Energy,3,8.1,0,Mid-level,Freelance,Medium
+AI10445,Machine Learning Researcher,158061,SE,CT,M,Telecommunications,5,8.9,0,Senior,Contract,Medium
+AI10476,Data Engineer,97795,EN,FL,L,Telecommunications,1,5.6,0,Entry,Freelance,Large
+AI10628,NLP Engineer,118988,MI,PT,M,Media,4,9.2,0,Mid-level,Part-Time,Medium
+AI10646,AI Software Engineer,81930,EN,FT,M,Healthcare,1,8.7,100,Entry,Full-Time,Medium
+AI10657,AI Research Scientist,100642,MI,FL,S,Automotive,3,9.1,100,Mid-level,Freelance,Small
+AI10690,Principal Data Scientist,244234,EX,FT,S,Consulting,17,9.3,100,Executive,Full-Time,Small
+AI10703,Data Engineer,110564,MI,FL,M,Education,4,5.1,100,Mid-level,Freelance,Medium
+AI10725,Computer Vision Engineer,93219,EN,CT,M,Real Estate,1,9.1,0,Entry,Contract,Medium
+AI10741,Autonomous Systems Engineer,264244,EX,FT,M,Retail,13,6.0,100,Executive,Full-Time,Medium
+AI10758,Machine Learning Engineer,145701,SE,FL,M,Government,8,7.8,50,Senior,Freelance,Medium
+AI10781,NLP Engineer,176405,SE,FT,L,Media,6,8.6,100,Senior,Full-Time,Large
+AI10816,Data Scientist,221771,EX,PT,L,Manufacturing,11,8.8,0,Executive,Part-Time,Large
+AI10857,AI Research Scientist,174490,SE,FT,M,Media,5,7.9,100,Senior,Full-Time,Medium
+AI10876,Data Analyst,119614,SE,CT,S,Real Estate,8,7.8,0,Senior,Contract,Small
+AI10889,AI Specialist,198051,SE,FL,L,Retail,6,6.4,0,Senior,Freelance,Large
+AI10891,ML Ops Engineer,81597,EN,CT,L,Energy,0,9.3,50,Entry,Contract,Large
+AI10978,AI Architect,112398,MI,FT,S,Real Estate,3,8.9,50,Mid-level,Full-Time,Small
+AI10989,Machine Learning Researcher,94981,MI,FL,S,Real Estate,4,9.0,50,Mid-level,Freelance,Small
+AI11043,Machine Learning Researcher,160127,EX,FL,M,Real Estate,10,6.4,50,Executive,Freelance,Medium
+AI11045,Head of AI,245667,EX,CT,L,Telecommunications,10,5.4,100,Executive,Contract,Large
+AI11087,Data Engineer,135101,MI,FL,L,Education,3,5.3,0,Mid-level,Freelance,Large
+AI11089,Deep Learning Engineer,145208,SE,FL,L,Consulting,9,5.2,100,Senior,Freelance,Large
+AI11097,ML Ops Engineer,88443,MI,FL,S,Retail,3,9.2,100,Mid-level,Freelance,Small
+AI11098,Robotics Engineer,87725,EN,FL,L,Telecommunications,0,9.5,100,Entry,Freelance,Large
+AI11145,ML Ops Engineer,60728,EN,FL,M,Media,1,9.5,50,Entry,Freelance,Medium
+AI11146,Principal Data Scientist,134914,SE,FL,S,Real Estate,6,9.2,50,Senior,Freelance,Small
+AI11221,AI Specialist,125079,SE,CT,S,Education,5,7.4,0,Senior,Contract,Small
+AI11222,Robotics Engineer,122187,SE,PT,S,Media,7,6.1,0,Senior,Part-Time,Small
+AI11229,Autonomous Systems Engineer,104690,MI,CT,S,Government,3,7.7,50,Mid-level,Contract,Small
+AI11234,Machine Learning Researcher,200293,EX,FT,L,Gaming,19,6.2,50,Executive,Full-Time,Large
+AI11266,Robotics Engineer,119820,MI,FL,L,Media,2,5.5,0,Mid-level,Freelance,Large
+AI11292,Data Analyst,344471,EX,CT,L,Retail,15,8.1,50,Executive,Contract,Large
+AI11303,Head of AI,118958,MI,PT,L,Finance,2,9.4,100,Mid-level,Part-Time,Large
+AI11306,Autonomous Systems Engineer,157579,SE,FL,S,Government,6,7.6,100,Senior,Freelance,Small
+AI11341,Data Analyst,199538,EX,CT,S,Healthcare,19,9.7,0,Executive,Contract,Small
+AI11348,AI Architect,223318,EX,CT,L,Consulting,15,6.0,50,Executive,Contract,Large
+AI11361,Data Analyst,81095,EN,FT,M,Technology,0,5.4,50,Entry,Full-Time,Medium
+AI11365,Data Analyst,190915,EX,FL,S,Education,16,9.5,100,Executive,Freelance,Small
+AI11449,Deep Learning Engineer,60631,EN,FT,M,Finance,0,9.7,50,Entry,Full-Time,Medium
+AI11450,Data Scientist,125056,MI,PT,M,Finance,2,7.1,50,Mid-level,Part-Time,Medium
+AI11451,Data Analyst,71367,EN,FT,M,Education,0,9.7,50,Entry,Full-Time,Medium
+AI11469,Data Engineer,91037,EN,FT,M,Education,1,8.2,50,Entry,Full-Time,Medium
+AI11471,Data Analyst,71276,EN,PT,M,Telecommunications,1,9.1,0,Entry,Part-Time,Medium
+AI11487,Data Scientist,87074,MI,FT,S,Energy,4,5.7,0,Mid-level,Full-Time,Small
+AI11503,NLP Engineer,82499,EN,FL,M,Automotive,1,6.6,100,Entry,Freelance,Medium
+AI11506,Data Scientist,119155,MI,CT,M,Consulting,4,6.1,0,Mid-level,Contract,Medium
+AI11541,ML Ops Engineer,252091,EX,FL,M,Retail,11,9.5,0,Executive,Freelance,Medium
+AI11626,Computer Vision Engineer,319984,EX,PT,L,Automotive,17,9.0,0,Executive,Part-Time,Large
+AI11632,AI Architect,79223,EN,PT,S,Energy,1,9.7,0,Entry,Part-Time,Small
+AI11664,AI Software Engineer,115494,SE,FL,S,Government,9,6.4,50,Senior,Freelance,Small
+AI11667,Computer Vision Engineer,79910,EN,PT,M,Technology,1,6.0,50,Entry,Part-Time,Medium
+AI11707,Data Engineer,189050,SE,CT,L,Manufacturing,6,7.7,100,Senior,Contract,Large
+AI11718,AI Product Manager,108308,EN,PT,L,Manufacturing,1,7.0,100,Entry,Part-Time,Large
+AI11719,ML Ops Engineer,59600,EN,CT,S,Retail,0,5.1,0,Entry,Contract,Small
+AI11755,AI Software Engineer,110574,MI,CT,M,Manufacturing,2,8.0,50,Mid-level,Contract,Medium
+AI11768,Data Engineer,75816,EN,CT,L,Technology,1,7.1,100,Entry,Contract,Large
+AI11794,Deep Learning Engineer,141751,SE,PT,S,Transportation,9,8.1,100,Senior,Part-Time,Small
+AI11799,AI Consultant,187729,SE,CT,L,Automotive,6,5.4,100,Senior,Contract,Large
+AI11807,Research Scientist,257606,EX,FT,L,Media,11,6.8,0,Executive,Full-Time,Large
+AI11815,AI Research Scientist,115814,MI,FT,M,Gaming,3,8.0,0,Mid-level,Full-Time,Medium
+AI11858,Data Engineer,172008,SE,FT,L,Government,5,6.8,0,Senior,Full-Time,Large
+AI11864,Head of AI,120666,SE,CT,M,Education,6,5.4,0,Senior,Contract,Medium
+AI11904,Head of AI,107214,MI,FL,L,Education,4,5.3,100,Mid-level,Freelance,Large
+AI11920,AI Specialist,81023,EN,FL,S,Automotive,1,7.5,100,Entry,Freelance,Small
+AI11924,AI Product Manager,105730,MI,FL,L,Real Estate,3,7.4,0,Mid-level,Freelance,Large
+AI11932,Principal Data Scientist,222351,EX,PT,S,Government,12,9.3,100,Executive,Part-Time,Small
+AI11973,AI Consultant,116096,MI,FL,M,Transportation,3,7.5,100,Mid-level,Freelance,Medium
+AI11981,Data Scientist,341312,EX,CT,L,Healthcare,17,9.5,100,Executive,Contract,Large
+AI12020,Head of AI,114834,SE,PT,S,Gaming,5,9.5,50,Senior,Part-Time,Small
+AI12028,Computer Vision Engineer,192376,SE,FT,L,Technology,8,8.7,100,Senior,Full-Time,Large
+AI12042,AI Product Manager,70218,EN,CT,S,Gaming,0,8.4,0,Entry,Contract,Small
+AI12055,NLP Engineer,167357,EX,PT,S,Technology,11,9.8,0,Executive,Part-Time,Small
+AI12081,Robotics Engineer,69051,EN,PT,M,Education,1,9.2,0,Entry,Part-Time,Medium
+AI12093,Principal Data Scientist,79112,EN,PT,M,Energy,0,8.8,0,Entry,Part-Time,Medium
+AI12094,AI Consultant,261421,EX,CT,S,Real Estate,13,5.5,100,Executive,Contract,Small
+AI12100,AI Consultant,104709,EN,FL,L,Consulting,0,7.4,0,Entry,Freelance,Large
+AI12197,Machine Learning Engineer,196297,EX,FT,L,Media,15,7.3,0,Executive,Full-Time,Large
+AI12205,ML Ops Engineer,140303,MI,CT,L,Consulting,2,8.8,100,Mid-level,Contract,Large
+AI12240,Deep Learning Engineer,83895,EN,FT,M,Consulting,1,8.3,50,Entry,Full-Time,Medium
+AI12241,Machine Learning Engineer,206941,EX,FT,S,Gaming,18,9.7,0,Executive,Full-Time,Small
+AI12251,Robotics Engineer,138226,SE,FL,S,Media,6,8.7,0,Senior,Freelance,Small
+AI12265,Autonomous Systems Engineer,132486,SE,CT,M,Telecommunications,5,8.3,0,Senior,Contract,Medium
+AI12266,AI Consultant,130372,MI,CT,L,Retail,4,6.0,100,Mid-level,Contract,Large
+AI12278,AI Research Scientist,251751,EX,PT,M,Retail,12,6.6,50,Executive,Part-Time,Medium
+AI12281,AI Product Manager,100793,MI,FT,S,Energy,4,6.2,100,Mid-level,Full-Time,Small
+AI12302,Autonomous Systems Engineer,239906,EX,CT,S,Retail,13,7.2,50,Executive,Contract,Small
+AI12345,Principal Data Scientist,83942,EN,FL,L,Finance,0,5.2,50,Entry,Freelance,Large
+AI12361,Head of AI,106715,EN,CT,L,Government,1,9.5,100,Entry,Contract,Large
+AI12368,NLP Engineer,123878,MI,CT,L,Healthcare,3,9.0,50,Mid-level,Contract,Large
+AI12385,Robotics Engineer,144454,EX,PT,S,Telecommunications,10,9.9,100,Executive,Part-Time,Small
+AI12395,NLP Engineer,206492,EX,FL,L,Education,18,7.0,0,Executive,Freelance,Large
+AI12397,Data Engineer,73105,EN,FL,L,Real Estate,0,6.6,0,Entry,Freelance,Large
+AI12437,Autonomous Systems Engineer,101218,MI,FT,L,Retail,2,9.5,100,Mid-level,Full-Time,Large
+AI12443,AI Software Engineer,75344,EN,FT,S,Real Estate,0,7.2,100,Entry,Full-Time,Small
+AI12469,AI Specialist,163318,SE,FT,M,Technology,9,7.7,50,Senior,Full-Time,Medium
+AI12497,Research Scientist,92744,MI,PT,S,Education,2,9.5,0,Mid-level,Part-Time,Small
+AI12512,Head of AI,72522,EN,CT,S,Gaming,1,8.4,50,Entry,Contract,Small
+AI12601,Research Scientist,135405,MI,CT,L,Energy,4,9.0,50,Mid-level,Contract,Large
+AI12642,AI Product Manager,172063,SE,CT,L,Transportation,6,6.0,50,Senior,Contract,Large
+AI12646,ML Ops Engineer,104041,EN,FL,L,Government,0,9.3,100,Entry,Freelance,Large
+AI12696,AI Product Manager,220469,EX,FT,S,Healthcare,17,5.4,100,Executive,Full-Time,Small
+AI12725,Principal Data Scientist,293738,EX,FT,M,Consulting,19,5.6,0,Executive,Full-Time,Medium
+AI12746,AI Specialist,89851,MI,CT,M,Automotive,4,5.4,0,Mid-level,Contract,Medium
+AI12747,Data Analyst,268156,EX,FT,M,Gaming,14,5.5,0,Executive,Full-Time,Medium
+AI12748,Computer Vision Engineer,88489,MI,FL,M,Real Estate,3,8.1,100,Mid-level,Freelance,Medium
+AI12760,AI Architect,104373,EN,FL,L,Finance,1,9.1,0,Entry,Freelance,Large
+AI12838,Data Engineer,249119,EX,FT,S,Retail,10,9.2,0,Executive,Full-Time,Small
+AI12855,Machine Learning Researcher,267028,EX,FL,S,Transportation,16,9.5,100,Executive,Freelance,Small
+AI12873,Machine Learning Engineer,143495,MI,FT,L,Transportation,3,5.7,100,Mid-level,Full-Time,Large
+AI12903,AI Architect,92991,MI,PT,S,Telecommunications,3,9.3,0,Mid-level,Part-Time,Small
+AI12959,AI Software Engineer,147884,SE,PT,M,Real Estate,9,8.7,0,Senior,Part-Time,Medium
+AI12977,AI Software Engineer,78601,EN,FT,S,Retail,1,8.9,100,Entry,Full-Time,Small
+AI13026,Principal Data Scientist,191497,EX,PT,M,Gaming,11,6.2,50,Executive,Part-Time,Medium
+AI13049,Data Engineer,92828,EN,FT,L,Manufacturing,0,8.6,100,Entry,Full-Time,Large
+AI13064,Principal Data Scientist,133644,MI,PT,L,Government,4,7.5,50,Mid-level,Part-Time,Large
+AI13065,Data Scientist,145616,MI,FL,L,Retail,2,9.7,0,Mid-level,Freelance,Large
+AI13066,Autonomous Systems Engineer,226035,EX,PT,M,Real Estate,17,6.1,50,Executive,Part-Time,Medium
+AI13087,AI Architect,101196,EN,PT,L,Gaming,1,9.0,100,Entry,Part-Time,Large
+AI13098,Robotics Engineer,94865,EN,FT,M,Automotive,0,5.3,100,Entry,Full-Time,Medium
+AI13099,Deep Learning Engineer,119646,MI,CT,L,Finance,4,9.3,50,Mid-level,Contract,Large
+AI13124,Robotics Engineer,104021,MI,FL,L,Transportation,3,7.6,0,Mid-level,Freelance,Large
+AI13130,AI Specialist,62357,EN,FT,S,Automotive,0,8.2,50,Entry,Full-Time,Small
+AI13143,Machine Learning Engineer,164699,SE,CT,L,Real Estate,6,6.8,50,Senior,Contract,Large
+AI13163,Machine Learning Engineer,114824,SE,FL,S,Media,5,6.7,100,Senior,Freelance,Small
+AI13179,Data Analyst,194354,SE,FL,L,Gaming,9,5.9,100,Senior,Freelance,Large
+AI13185,Deep Learning Engineer,255450,EX,CT,M,Consulting,16,9.7,100,Executive,Contract,Medium
+AI13196,Autonomous Systems Engineer,243811,EX,FL,M,Real Estate,18,5.3,100,Executive,Freelance,Medium
+AI13197,Autonomous Systems Engineer,69531,EN,FL,S,Healthcare,0,6.8,0,Entry,Freelance,Small
+AI13216,AI Architect,101059,MI,FL,M,Automotive,3,9.5,50,Mid-level,Freelance,Medium
+AI13246,AI Consultant,213368,EX,CT,M,Healthcare,11,7.8,50,Executive,Contract,Medium
+AI13258,AI Research Scientist,83033,EN,FT,L,Telecommunications,0,9.5,50,Entry,Full-Time,Large
+AI13265,Data Analyst,123058,MI,FL,M,Media,2,8.6,50,Mid-level,Freelance,Medium
+AI13295,Machine Learning Engineer,86047,EN,CT,M,Gaming,1,5.0,50,Entry,Contract,Medium
+AI13302,Deep Learning Engineer,98399,MI,FT,L,Retail,4,5.3,100,Mid-level,Full-Time,Large
+AI13330,Autonomous Systems Engineer,273986,EX,PT,M,Healthcare,16,5.5,100,Executive,Part-Time,Medium
+AI13351,Autonomous Systems Engineer,222682,EX,CT,S,Government,19,8.9,50,Executive,Contract,Small
+AI13355,NLP Engineer,176147,SE,CT,L,Healthcare,9,7.1,0,Senior,Contract,Large
+AI13360,ML Ops Engineer,113185,SE,FL,S,Education,6,7.3,0,Senior,Freelance,Small
+AI13398,Data Scientist,134019,SE,PT,M,Automotive,7,9.6,100,Senior,Part-Time,Medium
+AI13404,Head of AI,93577,EN,CT,M,Manufacturing,0,6.6,100,Entry,Contract,Medium
+AI13438,Head of AI,214890,EX,FT,S,Transportation,17,9.2,100,Executive,Full-Time,Small
+AI13440,AI Product Manager,94026,EN,FT,M,Education,1,5.9,50,Entry,Full-Time,Medium
+AI13457,AI Software Engineer,128209,SE,PT,S,Consulting,8,9.3,0,Senior,Part-Time,Small
+AI13499,Robotics Engineer,94088,EN,FT,M,Gaming,0,7.9,50,Entry,Full-Time,Medium
+AI13508,Data Scientist,84345,MI,FT,S,Automotive,2,7.7,0,Mid-level,Full-Time,Small
+AI13578,NLP Engineer,177802,SE,FT,M,Technology,6,6.6,50,Senior,Full-Time,Medium
+AI13582,AI Consultant,54512,EN,CT,S,Energy,0,6.8,0,Entry,Contract,Small
+AI13589,AI Software Engineer,239967,EX,CT,S,Education,18,7.5,50,Executive,Contract,Small
+AI13618,Machine Learning Engineer,71915,EN,FT,S,Manufacturing,0,6.0,0,Entry,Full-Time,Small
+AI13645,Deep Learning Engineer,152336,SE,PT,L,Technology,6,9.5,100,Senior,Part-Time,Large
+AI13674,AI Architect,258225,EX,PT,S,Retail,19,9.9,50,Executive,Part-Time,Small
+AI13708,AI Software Engineer,250931,EX,PT,S,Government,16,8.6,0,Executive,Part-Time,Small
+AI13725,Research Scientist,105893,MI,FT,M,Government,4,5.7,100,Mid-level,Full-Time,Medium
+AI13747,Head of AI,70814,EN,FT,M,Government,1,6.1,0,Entry,Full-Time,Medium
+AI13757,AI Architect,218302,EX,FT,L,Government,11,8.7,0,Executive,Full-Time,Large
+AI13779,Computer Vision Engineer,88754,EN,FL,L,Finance,1,8.5,100,Entry,Freelance,Large
+AI13782,NLP Engineer,146811,SE,CT,S,Consulting,9,5.9,0,Senior,Contract,Small
+AI13794,AI Research Scientist,90650,MI,FL,M,Healthcare,2,8.5,0,Mid-level,Freelance,Medium
+AI13844,Machine Learning Engineer,158140,SE,PT,S,Government,7,7.6,100,Senior,Part-Time,Small
+AI13879,Research Scientist,89619,MI,CT,M,Retail,2,7.3,100,Mid-level,Contract,Medium
+AI13922,Deep Learning Engineer,123483,MI,CT,M,Real Estate,4,9.8,0,Mid-level,Contract,Medium
+AI13937,NLP Engineer,290462,EX,PT,M,Finance,14,8.2,50,Executive,Part-Time,Medium
+AI13976,ML Ops Engineer,222864,EX,PT,L,Real Estate,15,9.8,50,Executive,Part-Time,Large
+AI13979,Machine Learning Researcher,217171,EX,CT,M,Education,17,5.5,100,Executive,Contract,Medium
+AI13995,NLP Engineer,85711,MI,FL,S,Transportation,4,8.8,0,Mid-level,Freelance,Small
+AI14014,Machine Learning Researcher,162756,SE,FT,M,Automotive,6,6.4,50,Senior,Full-Time,Medium
+AI14058,Autonomous Systems Engineer,107502,MI,PT,S,Transportation,2,7.6,50,Mid-level,Part-Time,Small
+AI14064,Head of AI,74422,EN,FT,L,Technology,0,8.8,100,Entry,Full-Time,Large
+AI14098,AI Architect,232326,EX,FL,M,Telecommunications,10,9.5,100,Executive,Freelance,Medium
+AI14146,Data Scientist,202828,SE,FT,L,Real Estate,6,9.8,100,Senior,Full-Time,Large
+AI14185,Robotics Engineer,182497,SE,CT,L,Education,7,6.5,100,Senior,Contract,Large
+AI14194,Principal Data Scientist,135799,MI,FT,L,Technology,2,6.9,0,Mid-level,Full-Time,Large
+AI14259,AI Specialist,306077,EX,FL,L,Media,13,8.4,50,Executive,Freelance,Large
+AI14270,AI Consultant,68777,EN,FT,S,Consulting,1,7.6,50,Entry,Full-Time,Small
+AI14275,ML Ops Engineer,61447,EN,CT,S,Transportation,1,9.9,100,Entry,Contract,Small
+AI14320,AI Research Scientist,73776,EN,FL,M,Automotive,0,5.0,100,Entry,Freelance,Medium
+AI14355,ML Ops Engineer,101876,MI,FT,L,Transportation,2,8.1,0,Mid-level,Full-Time,Large
+AI14371,AI Specialist,136520,MI,PT,L,Finance,3,6.5,50,Mid-level,Part-Time,Large
+AI14375,ML Ops Engineer,186582,EX,CT,S,Energy,11,9.5,50,Executive,Contract,Small
+AI14377,Principal Data Scientist,122849,SE,PT,S,Healthcare,6,9.1,0,Senior,Part-Time,Small
+AI14422,Data Engineer,77620,MI,FL,S,Real Estate,4,7.1,100,Mid-level,Freelance,Small
+AI14440,Computer Vision Engineer,284883,EX,PT,L,Finance,19,5.0,100,Executive,Part-Time,Large
+AI14462,Research Scientist,268445,EX,FL,L,Finance,17,8.3,0,Executive,Freelance,Large
+AI14488,AI Architect,84479,MI,PT,S,Transportation,2,5.2,50,Mid-level,Part-Time,Small
+AI14508,Autonomous Systems Engineer,54803,EN,CT,S,Education,0,5.2,0,Entry,Contract,Small
+AI14530,Robotics Engineer,133478,SE,FL,M,Retail,8,6.7,100,Senior,Freelance,Medium
+AI14535,Head of AI,266349,EX,FL,S,Gaming,10,5.9,100,Executive,Freelance,Small
+AI14544,AI Consultant,112293,MI,CT,S,Retail,2,8.9,100,Mid-level,Contract,Small
+AI14575,Data Analyst,94867,EN,CT,L,Real Estate,1,5.7,100,Entry,Contract,Large
+AI14584,Data Scientist,132940,SE,FL,S,Technology,7,6.7,0,Senior,Freelance,Small
+AI14618,AI Specialist,137067,SE,FT,S,Retail,9,6.9,50,Senior,Full-Time,Small
+AI14619,AI Research Scientist,127966,SE,FT,M,Automotive,9,7.8,50,Senior,Full-Time,Medium
+AI14620,Machine Learning Researcher,142828,SE,PT,M,Government,9,7.0,100,Senior,Part-Time,Medium
+AI14621,Principal Data Scientist,108726,MI,FT,M,Gaming,4,6.9,50,Mid-level,Full-Time,Medium
+AI14623,ML Ops Engineer,78716,EN,FT,L,Gaming,1,9.7,0,Entry,Full-Time,Large
+AI14639,AI Consultant,261178,EX,PT,S,Real Estate,15,9.0,50,Executive,Part-Time,Small
+AI14645,Data Engineer,106078,EN,CT,L,Technology,0,8.3,100,Entry,Contract,Large
+AI14658,Head of AI,147997,SE,FL,S,Telecommunications,8,5.5,100,Senior,Freelance,Small
+AI14680,Principal Data Scientist,238297,EX,FT,L,Media,16,9.1,50,Executive,Full-Time,Large
+AI14682,AI Architect,156729,SE,CT,L,Automotive,9,6.5,100,Senior,Contract,Large
+AI14713,Research Scientist,89180,MI,PT,S,Energy,3,9.6,100,Mid-level,Part-Time,Small
+AI14724,Robotics Engineer,172447,EX,FL,S,Telecommunications,18,5.9,0,Executive,Freelance,Small
+AI14743,AI Product Manager,116616,SE,PT,S,Government,7,8.5,100,Senior,Part-Time,Small
+AI14746,Data Scientist,132806,MI,PT,L,Transportation,4,6.2,50,Mid-level,Part-Time,Large
+AI14778,NLP Engineer,106051,MI,CT,S,Telecommunications,2,8.3,0,Mid-level,Contract,Small
+AI14795,Robotics Engineer,273971,EX,CT,L,Telecommunications,15,8.3,0,Executive,Contract,Large
+AI14806,ML Ops Engineer,248665,EX,CT,M,Technology,15,9.5,50,Executive,Contract,Medium
+AI14811,NLP Engineer,121299,SE,FT,M,Energy,6,6.0,0,Senior,Full-Time,Medium
+AI14834,Deep Learning Engineer,275213,EX,PT,L,Consulting,10,9.5,100,Executive,Part-Time,Large
+AI14917,Principal Data Scientist,307237,EX,CT,L,Energy,14,8.8,0,Executive,Contract,Large
+AI14933,Principal Data Scientist,135876,SE,FL,S,Healthcare,8,8.1,0,Senior,Freelance,Small
+AI14947,Computer Vision Engineer,87728,EN,PT,L,Automotive,1,9.4,0,Entry,Part-Time,Large
+AI14984,AI Architect,288661,EX,FL,L,Retail,13,6.5,100,Executive,Freelance,Large
+AI14992,Robotics Engineer,97480,MI,FT,M,Energy,4,7.9,50,Mid-level,Full-Time,Medium

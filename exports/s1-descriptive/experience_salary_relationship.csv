@@ -1,0 +1,725 @@
+years_experience,salary_usd,experience_level,job_title,industry,company_size,benefits_score,overall_correlation,experience_level_name
+2,102550,MI,Autonomous Systems Engineer,Automotive,M,10.0,0.8695813816870035,Mid-level
+2,96956,MI,Data Scientist,Telecommunications,M,5.3,0.8695813816870035,Mid-level
+8,196954,SE,AI Architect,Finance,L,7.5,0.8695813816870035,Senior
+7,174663,SE,AI Research Scientist,Media,M,5.4,0.8695813816870035,Senior
+3,106579,MI,Research Scientist,Gaming,S,5.4,0.8695813816870035,Mid-level
+12,284486,EX,AI Research Scientist,Consulting,M,7.0,0.8695813816870035,Executive
+0,69914,EN,AI Specialist,Transportation,S,7.0,0.8695813816870035,Entry
+3,111528,MI,AI Research Scientist,Real Estate,L,9.5,0.8695813816870035,Mid-level
+8,195691,SE,AI Research Scientist,Transportation,L,8.7,0.8695813816870035,Senior
+18,205357,EX,Machine Learning Researcher,Education,S,6.6,0.8695813816870035,Executive
+0,61055,EN,NLP Engineer,Retail,M,6.9,0.8695813816870035,Entry
+7,115841,SE,AI Specialist,Healthcare,S,7.2,0.8695813816870035,Senior
+5,170139,SE,ML Ops Engineer,Technology,L,9.6,0.8695813816870035,Senior
+0,98422,EN,AI Specialist,Transportation,L,9.4,0.8695813816870035,Entry
+7,180252,SE,AI Product Manager,Telecommunications,L,6.3,0.8695813816870035,Senior
+5,159643,SE,AI Product Manager,Gaming,S,5.3,0.8695813816870035,Senior
+5,173839,SE,AI Research Scientist,Government,M,5.1,0.8695813816870035,Senior
+2,120749,MI,Research Scientist,Retail,M,6.5,0.8695813816870035,Mid-level
+18,255678,EX,Research Scientist,Telecommunications,M,7.3,0.8695813816870035,Executive
+6,146085,SE,AI Research Scientist,Technology,M,6.4,0.8695813816870035,Senior
+0,69807,EN,Principal Data Scientist,Transportation,L,8.4,0.8695813816870035,Entry
+3,81885,MI,AI Consultant,Retail,S,9.0,0.8695813816870035,Mid-level
+5,133565,SE,Robotics Engineer,Media,S,8.0,0.8695813816870035,Senior
+0,76875,EN,ML Ops Engineer,Transportation,M,8.3,0.8695813816870035,Entry
+5,151610,SE,NLP Engineer,Retail,L,5.3,0.8695813816870035,Senior
+15,238449,EX,AI Architect,Gaming,M,5.3,0.8695813816870035,Executive
+3,101978,MI,Autonomous Systems Engineer,Media,S,8.9,0.8695813816870035,Mid-level
+4,100678,MI,AI Software Engineer,Automotive,S,6.5,0.8695813816870035,Mid-level
+1,94044,EN,AI Software Engineer,Healthcare,L,8.4,0.8695813816870035,Entry
+6,171987,SE,Autonomous Systems Engineer,Education,M,5.4,0.8695813816870035,Senior
+13,170702,EX,AI Product Manager,Retail,S,6.2,0.8695813816870035,Executive
+3,103806,MI,AI Software Engineer,Finance,L,8.3,0.8695813816870035,Mid-level
+0,65226,EN,Data Scientist,Consulting,S,8.2,0.8695813816870035,Entry
+5,160078,SE,Computer Vision Engineer,Technology,L,7.4,0.8695813816870035,Senior
+6,148848,SE,Machine Learning Engineer,Education,S,9.5,0.8695813816870035,Senior
+1,106583,EN,AI Product Manager,Real Estate,L,8.1,0.8695813816870035,Entry
+5,146023,SE,AI Architect,Finance,M,6.3,0.8695813816870035,Senior
+1,99041,EN,Data Scientist,Consulting,L,9.2,0.8695813816870035,Entry
+4,109969,MI,Machine Learning Researcher,Media,L,5.6,0.8695813816870035,Mid-level
+4,133372,MI,Data Scientist,Transportation,L,9.9,0.8695813816870035,Mid-level
+2,112606,MI,AI Specialist,Technology,M,9.7,0.8695813816870035,Mid-level
+17,231074,EX,Machine Learning Engineer,Retail,L,7.4,0.8695813816870035,Executive
+0,101302,EN,Machine Learning Researcher,Telecommunications,L,7.1,0.8695813816870035,Entry
+1,94854,EN,Data Scientist,Education,M,6.1,0.8695813816870035,Entry
+6,166340,SE,Data Engineer,Retail,L,8.4,0.8695813816870035,Senior
+7,140497,SE,Principal Data Scientist,Technology,S,7.5,0.8695813816870035,Senior
+4,96225,MI,Data Scientist,Technology,M,9.9,0.8695813816870035,Mid-level
+11,268001,EX,Data Engineer,Real Estate,S,9.4,0.8695813816870035,Executive
+1,86453,EN,AI Research Scientist,Energy,L,10.0,0.8695813816870035,Entry
+9,139082,SE,Data Analyst,Technology,S,5.1,0.8695813816870035,Senior
+1,63794,EN,Machine Learning Engineer,Government,S,7.1,0.8695813816870035,Entry
+1,61684,EN,AI Consultant,Consulting,S,8.6,0.8695813816870035,Entry
+4,123019,MI,AI Product Manager,Healthcare,M,9.4,0.8695813816870035,Mid-level
+11,272996,EX,Principal Data Scientist,Energy,M,8.7,0.8695813816870035,Executive
+0,73628,EN,AI Architect,Energy,S,7.4,0.8695813816870035,Entry
+1,68262,EN,Principal Data Scientist,Healthcare,S,6.9,0.8695813816870035,Entry
+0,79588,EN,ML Ops Engineer,Technology,S,6.8,0.8695813816870035,Entry
+16,206257,EX,Machine Learning Researcher,Media,S,5.6,0.8695813816870035,Executive
+0,77274,EN,ML Ops Engineer,Media,S,8.9,0.8695813816870035,Entry
+6,140234,SE,AI Architect,Government,L,6.2,0.8695813816870035,Senior
+10,206831,EX,AI Research Scientist,Government,M,5.3,0.8695813816870035,Executive
+3,85303,MI,Principal Data Scientist,Media,S,5.4,0.8695813816870035,Mid-level
+2,108128,MI,Data Analyst,Government,S,9.2,0.8695813816870035,Mid-level
+2,127936,MI,Data Engineer,Education,L,5.4,0.8695813816870035,Mid-level
+12,264300,EX,ML Ops Engineer,Technology,L,8.6,0.8695813816870035,Executive
+6,118816,SE,Machine Learning Engineer,Healthcare,S,5.3,0.8695813816870035,Senior
+1,89495,EN,Data Scientist,Retail,M,5.9,0.8695813816870035,Entry
+7,191681,SE,AI Architect,Energy,L,9.1,0.8695813816870035,Senior
+3,88462,MI,AI Consultant,Gaming,S,8.6,0.8695813816870035,Mid-level
+11,219210,EX,Machine Learning Researcher,Energy,M,7.4,0.8695813816870035,Executive
+1,62143,EN,Data Analyst,Education,M,5.7,0.8695813816870035,Entry
+2,142753,MI,Machine Learning Engineer,Education,L,10.0,0.8695813816870035,Mid-level
+16,197981,EX,Autonomous Systems Engineer,Finance,M,8.4,0.8695813816870035,Executive
+6,159770,SE,Data Analyst,Transportation,S,8.3,0.8695813816870035,Senior
+7,190447,SE,AI Architect,Energy,L,8.6,0.8695813816870035,Senior
+1,78244,EN,AI Product Manager,Healthcare,S,9.4,0.8695813816870035,Entry
+1,103040,EN,Data Analyst,Consulting,L,9.6,0.8695813816870035,Entry
+11,275914,EX,Machine Learning Researcher,Education,M,6.7,0.8695813816870035,Executive
+3,109585,MI,Computer Vision Engineer,Automotive,S,5.2,0.8695813816870035,Mid-level
+11,206448,EX,AI Research Scientist,Retail,S,6.1,0.8695813816870035,Executive
+13,197656,EX,AI Architect,Automotive,M,6.8,0.8695813816870035,Executive
+1,75610,EN,AI Product Manager,Healthcare,M,8.9,0.8695813816870035,Entry
+17,236415,EX,Head of AI,Government,S,5.4,0.8695813816870035,Executive
+17,179544,EX,AI Product Manager,Retail,S,6.1,0.8695813816870035,Executive
+1,94082,EN,AI Research Scientist,Healthcare,L,7.9,0.8695813816870035,Entry
+9,139187,SE,Head of AI,Consulting,M,8.0,0.8695813816870035,Senior
+1,74385,EN,AI Consultant,Transportation,S,6.4,0.8695813816870035,Entry
+0,78059,EN,AI Product Manager,Manufacturing,S,9.8,0.8695813816870035,Entry
+11,187375,EX,Head of AI,Real Estate,L,6.1,0.8695813816870035,Executive
+7,116016,SE,Data Scientist,Retail,S,6.3,0.8695813816870035,Senior
+2,96466,MI,Principal Data Scientist,Government,S,6.2,0.8695813816870035,Mid-level
+11,240150,EX,AI Architect,Gaming,M,7.2,0.8695813816870035,Executive
+4,110941,MI,Data Engineer,Telecommunications,L,5.9,0.8695813816870035,Mid-level
+10,223202,EX,Research Scientist,Consulting,L,8.5,0.8695813816870035,Executive
+4,119598,MI,AI Consultant,Technology,M,7.7,0.8695813816870035,Mid-level
+18,209331,EX,AI Specialist,Telecommunications,L,7.0,0.8695813816870035,Executive
+2,109340,MI,NLP Engineer,Energy,M,7.2,0.8695813816870035,Mid-level
+4,125758,MI,Machine Learning Engineer,Retail,L,9.9,0.8695813816870035,Mid-level
+13,284282,EX,Machine Learning Researcher,Consulting,L,7.1,0.8695813816870035,Executive
+1,108843,EN,Principal Data Scientist,Education,L,6.2,0.8695813816870035,Entry
+1,81594,EN,Data Analyst,Transportation,L,8.5,0.8695813816870035,Entry
+9,145626,SE,Machine Learning Engineer,Healthcare,M,9.5,0.8695813816870035,Senior
+13,198340,EX,AI Specialist,Transportation,L,8.8,0.8695813816870035,Executive
+18,295058,EX,Computer Vision Engineer,Manufacturing,L,5.6,0.8695813816870035,Executive
+4,128911,MI,Autonomous Systems Engineer,Energy,M,8.3,0.8695813816870035,Mid-level
+0,85852,EN,Data Analyst,Technology,L,8.7,0.8695813816870035,Entry
+1,87139,EN,Data Engineer,Retail,M,6.7,0.8695813816870035,Entry
+11,175364,EX,Deep Learning Engineer,Finance,S,6.1,0.8695813816870035,Executive
+16,266051,EX,AI Consultant,Energy,M,7.6,0.8695813816870035,Executive
+2,97999,MI,Machine Learning Researcher,Manufacturing,M,6.5,0.8695813816870035,Mid-level
+1,71084,EN,Data Engineer,Gaming,S,9.8,0.8695813816870035,Entry
+8,144181,SE,AI Product Manager,Transportation,L,7.6,0.8695813816870035,Senior
+12,237312,EX,Head of AI,Gaming,L,7.4,0.8695813816870035,Executive
+1,75835,EN,Autonomous Systems Engineer,Consulting,L,9.3,0.8695813816870035,Entry
+0,76846,EN,Research Scientist,Retail,S,8.3,0.8695813816870035,Entry
+2,113366,MI,Deep Learning Engineer,Retail,L,5.2,0.8695813816870035,Mid-level
+0,79228,EN,Head of AI,Real Estate,S,8.1,0.8695813816870035,Entry
+4,127193,MI,ML Ops Engineer,Real Estate,M,7.9,0.8695813816870035,Mid-level
+4,113629,MI,Research Scientist,Education,S,5.7,0.8695813816870035,Mid-level
+12,188500,EX,Computer Vision Engineer,Gaming,M,9.5,0.8695813816870035,Executive
+3,109004,MI,AI Specialist,Manufacturing,L,8.6,0.8695813816870035,Mid-level
+2,108968,MI,Data Scientist,Energy,S,5.7,0.8695813816870035,Mid-level
+0,76903,EN,AI Product Manager,Technology,M,8.0,0.8695813816870035,Entry
+12,211934,EX,Data Analyst,Energy,S,8.8,0.8695813816870035,Executive
+6,146531,SE,Machine Learning Engineer,Automotive,S,8.0,0.8695813816870035,Senior
+2,107206,MI,Machine Learning Researcher,Technology,L,8.1,0.8695813816870035,Mid-level
+2,91286,MI,Data Scientist,Gaming,M,8.8,0.8695813816870035,Mid-level
+11,263846,EX,Robotics Engineer,Finance,S,9.3,0.8695813816870035,Executive
+18,342272,EX,Head of AI,Real Estate,L,5.7,0.8695813816870035,Executive
+6,170717,SE,Robotics Engineer,Healthcare,M,8.0,0.8695813816870035,Senior
+4,100150,MI,AI Specialist,Energy,S,8.4,0.8695813816870035,Mid-level
+3,119490,MI,Data Engineer,Consulting,L,10.0,0.8695813816870035,Mid-level
+13,277303,EX,AI Research Scientist,Consulting,L,7.6,0.8695813816870035,Executive
+1,57234,EN,Machine Learning Engineer,Education,S,7.1,0.8695813816870035,Entry
+2,125276,MI,Machine Learning Researcher,Transportation,M,9.3,0.8695813816870035,Mid-level
+7,178443,SE,Deep Learning Engineer,Technology,L,7.8,0.8695813816870035,Senior
+10,161108,EX,AI Software Engineer,Education,S,5.7,0.8695813816870035,Executive
+1,80627,EN,Machine Learning Engineer,Consulting,L,10.0,0.8695813816870035,Entry
+13,183861,EX,Machine Learning Engineer,Finance,M,8.1,0.8695813816870035,Executive
+4,112977,MI,AI Architect,Healthcare,L,7.2,0.8695813816870035,Mid-level
+7,138192,SE,Autonomous Systems Engineer,Technology,M,9.4,0.8695813816870035,Senior
+2,100577,MI,AI Research Scientist,Technology,L,7.8,0.8695813816870035,Mid-level
+1,107517,EN,AI Specialist,Energy,L,8.9,0.8695813816870035,Entry
+3,77185,MI,Data Scientist,Energy,S,6.6,0.8695813816870035,Mid-level
+2,85957,MI,Data Analyst,Media,M,8.9,0.8695813816870035,Mid-level
+11,221496,EX,Principal Data Scientist,Gaming,L,6.5,0.8695813816870035,Executive
+0,76845,EN,Principal Data Scientist,Manufacturing,M,7.6,0.8695813816870035,Entry
+9,120290,SE,AI Architect,Media,M,5.7,0.8695813816870035,Senior
+0,89266,EN,Robotics Engineer,Education,M,8.1,0.8695813816870035,Entry
+12,224547,EX,Autonomous Systems Engineer,Energy,L,5.6,0.8695813816870035,Executive
+3,95467,MI,AI Research Scientist,Technology,S,8.2,0.8695813816870035,Mid-level
+9,144719,SE,Robotics Engineer,Manufacturing,L,9.0,0.8695813816870035,Senior
+10,235813,EX,AI Architect,Energy,M,8.2,0.8695813816870035,Executive
+19,185661,EX,AI Software Engineer,Transportation,S,7.4,0.8695813816870035,Executive
+0,71629,EN,Research Scientist,Manufacturing,S,8.5,0.8695813816870035,Entry
+15,249665,EX,Deep Learning Engineer,Education,L,9.4,0.8695813816870035,Executive
+14,287746,EX,AI Consultant,Retail,L,7.3,0.8695813816870035,Executive
+16,245881,EX,Computer Vision Engineer,Technology,M,8.7,0.8695813816870035,Executive
+9,199358,SE,AI Research Scientist,Finance,L,5.4,0.8695813816870035,Senior
+1,76094,EN,Data Scientist,Technology,S,5.4,0.8695813816870035,Entry
+9,161339,SE,AI Software Engineer,Retail,S,6.3,0.8695813816870035,Senior
+16,271945,EX,AI Specialist,Manufacturing,M,8.4,0.8695813816870035,Executive
+1,71217,EN,Research Scientist,Transportation,S,5.1,0.8695813816870035,Entry
+11,338443,EX,Deep Learning Engineer,Finance,L,5.6,0.8695813816870035,Executive
+10,268894,EX,AI Specialist,Transportation,L,6.7,0.8695813816870035,Executive
+1,69650,EN,NLP Engineer,Manufacturing,L,8.4,0.8695813816870035,Entry
+13,334881,EX,Robotics Engineer,Government,L,9.7,0.8695813816870035,Executive
+5,157167,SE,AI Software Engineer,Energy,M,8.9,0.8695813816870035,Senior
+1,62906,EN,Data Engineer,Media,S,9.4,0.8695813816870035,Entry
+4,79342,MI,Machine Learning Researcher,Government,S,7.7,0.8695813816870035,Mid-level
+1,62296,EN,AI Software Engineer,Automotive,S,9.2,0.8695813816870035,Entry
+4,130032,MI,Head of AI,Media,L,9.6,0.8695813816870035,Mid-level
+7,139424,SE,NLP Engineer,Finance,S,6.5,0.8695813816870035,Senior
+7,132731,SE,Autonomous Systems Engineer,Technology,S,6.6,0.8695813816870035,Senior
+7,177501,SE,Research Scientist,Education,M,6.2,0.8695813816870035,Senior
+19,333499,EX,Research Scientist,Retail,L,8.8,0.8695813816870035,Executive
+10,303956,EX,AI Product Manager,Government,L,7.8,0.8695813816870035,Executive
+15,218946,EX,Deep Learning Engineer,Real Estate,L,5.6,0.8695813816870035,Executive
+9,117350,SE,AI Research Scientist,Energy,S,8.0,0.8695813816870035,Senior
+1,63660,EN,NLP Engineer,Manufacturing,S,9.4,0.8695813816870035,Entry
+3,79396,MI,Principal Data Scientist,Telecommunications,S,5.5,0.8695813816870035,Mid-level
+0,70305,EN,Data Scientist,Healthcare,M,5.5,0.8695813816870035,Entry
+3,85084,MI,Robotics Engineer,Automotive,S,6.9,0.8695813816870035,Mid-level
+5,164169,SE,AI Specialist,Government,L,6.5,0.8695813816870035,Senior
+13,250761,EX,Robotics Engineer,Technology,M,7.9,0.8695813816870035,Executive
+3,99064,MI,AI Software Engineer,Energy,L,6.0,0.8695813816870035,Mid-level
+15,188338,EX,NLP Engineer,Consulting,S,9.3,0.8695813816870035,Executive
+19,235929,EX,Data Scientist,Automotive,S,6.0,0.8695813816870035,Executive
+6,156765,SE,Autonomous Systems Engineer,Consulting,M,5.9,0.8695813816870035,Senior
+19,337306,EX,Robotics Engineer,Telecommunications,L,7.9,0.8695813816870035,Executive
+15,166199,EX,Data Analyst,Retail,M,8.9,0.8695813816870035,Executive
+3,111135,MI,Data Engineer,Gaming,S,5.9,0.8695813816870035,Mid-level
+7,165564,SE,Data Scientist,Transportation,M,6.6,0.8695813816870035,Senior
+4,119240,MI,AI Architect,Media,L,8.9,0.8695813816870035,Mid-level
+5,170703,SE,AI Research Scientist,Retail,L,6.4,0.8695813816870035,Senior
+2,108449,MI,Autonomous Systems Engineer,Consulting,M,6.4,0.8695813816870035,Mid-level
+7,148050,SE,AI Software Engineer,Education,L,5.6,0.8695813816870035,Senior
+5,175537,SE,Data Scientist,Telecommunications,L,8.8,0.8695813816870035,Senior
+8,149341,SE,Research Scientist,Consulting,M,8.4,0.8695813816870035,Senior
+9,124928,SE,Robotics Engineer,Media,M,6.5,0.8695813816870035,Senior
+3,110554,MI,Data Engineer,Consulting,S,5.1,0.8695813816870035,Mid-level
+7,169855,SE,Principal Data Scientist,Technology,M,8.4,0.8695813816870035,Senior
+14,160162,EX,AI Architect,Telecommunications,M,5.9,0.8695813816870035,Executive
+7,183624,SE,AI Product Manager,Government,L,8.0,0.8695813816870035,Senior
+16,336904,EX,Data Analyst,Automotive,L,8.3,0.8695813816870035,Executive
+0,79685,EN,AI Research Scientist,Automotive,S,9.4,0.8695813816870035,Entry
+10,213820,EX,ML Ops Engineer,Transportation,M,5.7,0.8695813816870035,Executive
+17,243179,EX,AI Architect,Gaming,S,6.7,0.8695813816870035,Executive
+4,128234,MI,Principal Data Scientist,Finance,L,8.6,0.8695813816870035,Mid-level
+8,141172,SE,Autonomous Systems Engineer,Gaming,S,9.0,0.8695813816870035,Senior
+4,115416,MI,Robotics Engineer,Government,S,7.8,0.8695813816870035,Mid-level
+1,92711,EN,Head of AI,Education,L,9.8,0.8695813816870035,Entry
+7,143776,SE,AI Specialist,Real Estate,M,5.7,0.8695813816870035,Senior
+9,133950,SE,Deep Learning Engineer,Consulting,S,8.0,0.8695813816870035,Senior
+1,96034,EN,Robotics Engineer,Technology,L,7.4,0.8695813816870035,Entry
+13,239601,EX,AI Product Manager,Real Estate,S,9.0,0.8695813816870035,Executive
+15,196418,EX,NLP Engineer,Manufacturing,M,9.9,0.8695813816870035,Executive
+14,198536,EX,AI Specialist,Education,M,8.9,0.8695813816870035,Executive
+7,195397,SE,AI Product Manager,Consulting,L,6.7,0.8695813816870035,Senior
+6,152500,SE,Computer Vision Engineer,Education,M,7.0,0.8695813816870035,Senior
+14,204974,EX,Deep Learning Engineer,Media,S,8.3,0.8695813816870035,Executive
+8,121527,SE,AI Architect,Manufacturing,S,6.2,0.8695813816870035,Senior
+17,265991,EX,Machine Learning Researcher,Education,S,5.4,0.8695813816870035,Executive
+8,124367,SE,AI Product Manager,Telecommunications,M,5.6,0.8695813816870035,Senior
+16,262069,EX,ML Ops Engineer,Education,S,9.0,0.8695813816870035,Executive
+2,106139,MI,AI Specialist,Government,M,9.7,0.8695813816870035,Mid-level
+4,119986,MI,Autonomous Systems Engineer,Manufacturing,M,5.0,0.8695813816870035,Mid-level
+6,122001,SE,Data Analyst,Transportation,M,8.6,0.8695813816870035,Senior
+4,107436,MI,Data Analyst,Transportation,L,8.5,0.8695813816870035,Mid-level
+4,122517,MI,Data Engineer,Automotive,L,9.3,0.8695813816870035,Mid-level
+2,129699,MI,Deep Learning Engineer,Finance,L,7.1,0.8695813816870035,Mid-level
+2,123935,MI,AI Software Engineer,Government,L,5.6,0.8695813816870035,Mid-level
+8,121458,SE,AI Architect,Government,S,8.9,0.8695813816870035,Senior
+4,120914,MI,AI Specialist,Automotive,M,7.8,0.8695813816870035,Mid-level
+6,139402,SE,Research Scientist,Retail,M,5.1,0.8695813816870035,Senior
+3,110450,MI,AI Specialist,Consulting,M,6.5,0.8695813816870035,Mid-level
+8,172202,SE,Principal Data Scientist,Energy,M,6.7,0.8695813816870035,Senior
+3,126229,MI,NLP Engineer,Healthcare,L,9.4,0.8695813816870035,Mid-level
+3,104098,MI,AI Architect,Consulting,L,7.1,0.8695813816870035,Mid-level
+4,106633,MI,Data Analyst,Gaming,M,8.6,0.8695813816870035,Mid-level
+1,66941,EN,Data Analyst,Automotive,M,8.2,0.8695813816870035,Entry
+18,288318,EX,Head of AI,Gaming,M,6.3,0.8695813816870035,Executive
+6,161632,SE,Autonomous Systems Engineer,Automotive,M,9.4,0.8695813816870035,Senior
+3,110448,MI,Data Analyst,Energy,S,9.1,0.8695813816870035,Mid-level
+2,90425,MI,Robotics Engineer,Technology,S,5.6,0.8695813816870035,Mid-level
+1,69679,EN,AI Research Scientist,Energy,M,6.0,0.8695813816870035,Entry
+6,176189,SE,Research Scientist,Energy,M,5.1,0.8695813816870035,Senior
+16,258989,EX,Head of AI,Gaming,S,9.9,0.8695813816870035,Executive
+6,139872,SE,AI Research Scientist,Automotive,L,9.0,0.8695813816870035,Senior
+11,179290,EX,Machine Learning Researcher,Telecommunications,S,8.0,0.8695813816870035,Executive
+8,168972,SE,Data Analyst,Real Estate,M,7.5,0.8695813816870035,Senior
+5,136611,SE,Machine Learning Engineer,Retail,M,8.7,0.8695813816870035,Senior
+9,130960,SE,Research Scientist,Energy,M,9.1,0.8695813816870035,Senior
+7,152623,SE,Data Scientist,Real Estate,M,8.4,0.8695813816870035,Senior
+0,69059,EN,Data Engineer,Media,M,6.7,0.8695813816870035,Entry
+12,257729,EX,Computer Vision Engineer,Government,M,6.5,0.8695813816870035,Executive
+6,168195,SE,Machine Learning Researcher,Manufacturing,L,5.4,0.8695813816870035,Senior
+8,120917,SE,ML Ops Engineer,Manufacturing,M,8.0,0.8695813816870035,Senior
+14,241233,EX,Autonomous Systems Engineer,Technology,L,7.8,0.8695813816870035,Executive
+7,172071,SE,AI Consultant,Real Estate,L,5.8,0.8695813816870035,Senior
+0,91364,EN,Machine Learning Researcher,Education,L,6.9,0.8695813816870035,Entry
+8,120590,SE,Machine Learning Engineer,Finance,M,6.3,0.8695813816870035,Senior
+5,162870,SE,Computer Vision Engineer,Telecommunications,L,9.3,0.8695813816870035,Senior
+10,177967,EX,NLP Engineer,Retail,S,6.5,0.8695813816870035,Executive
+3,88837,MI,AI Consultant,Energy,M,8.2,0.8695813816870035,Mid-level
+0,69279,EN,ML Ops Engineer,Gaming,S,6.0,0.8695813816870035,Entry
+3,81981,MI,Robotics Engineer,Telecommunications,S,7.6,0.8695813816870035,Mid-level
+17,228744,EX,Machine Learning Engineer,Transportation,L,6.4,0.8695813816870035,Executive
+18,172269,EX,Deep Learning Engineer,Education,M,7.1,0.8695813816870035,Executive
+15,187719,EX,Autonomous Systems Engineer,Media,S,7.8,0.8695813816870035,Executive
+0,56424,EN,Robotics Engineer,Energy,S,5.5,0.8695813816870035,Entry
+15,167167,EX,AI Architect,Gaming,M,9.4,0.8695813816870035,Executive
+8,186649,SE,ML Ops Engineer,Technology,L,6.2,0.8695813816870035,Senior
+10,214097,EX,Robotics Engineer,Retail,S,8.0,0.8695813816870035,Executive
+18,292471,EX,AI Architect,Finance,M,7.4,0.8695813816870035,Executive
+10,341883,EX,AI Specialist,Automotive,L,8.8,0.8695813816870035,Executive
+6,150045,SE,NLP Engineer,Gaming,S,9.7,0.8695813816870035,Senior
+9,144658,SE,Data Engineer,Automotive,L,7.8,0.8695813816870035,Senior
+8,155572,SE,Deep Learning Engineer,Telecommunications,L,7.2,0.8695813816870035,Senior
+4,112500,MI,Data Analyst,Consulting,M,6.0,0.8695813816870035,Mid-level
+16,228173,EX,Research Scientist,Media,M,7.5,0.8695813816870035,Executive
+13,325119,EX,Data Analyst,Transportation,L,8.2,0.8695813816870035,Executive
+14,264874,EX,Research Scientist,Technology,L,8.3,0.8695813816870035,Executive
+4,138709,MI,NLP Engineer,Energy,L,7.6,0.8695813816870035,Mid-level
+4,101619,MI,Deep Learning Engineer,Consulting,L,9.9,0.8695813816870035,Mid-level
+2,98654,MI,Principal Data Scientist,Government,L,5.4,0.8695813816870035,Mid-level
+2,129593,MI,Principal Data Scientist,Healthcare,M,9.5,0.8695813816870035,Mid-level
+3,102142,MI,ML Ops Engineer,Consulting,M,5.1,0.8695813816870035,Mid-level
+8,205542,SE,AI Specialist,Education,L,6.2,0.8695813816870035,Senior
+2,144869,MI,Data Engineer,Telecommunications,L,7.8,0.8695813816870035,Mid-level
+14,152763,EX,Head of AI,Manufacturing,S,6.4,0.8695813816870035,Executive
+10,259915,EX,Autonomous Systems Engineer,Consulting,M,8.2,0.8695813816870035,Executive
+1,80847,EN,Deep Learning Engineer,Media,M,5.1,0.8695813816870035,Entry
+18,165700,EX,AI Product Manager,Technology,M,7.1,0.8695813816870035,Executive
+18,196550,EX,AI Architect,Gaming,L,5.1,0.8695813816870035,Executive
+3,134416,MI,Computer Vision Engineer,Healthcare,L,7.1,0.8695813816870035,Mid-level
+3,114259,MI,AI Research Scientist,Education,M,6.2,0.8695813816870035,Mid-level
+4,85579,MI,Principal Data Scientist,Government,M,7.3,0.8695813816870035,Mid-level
+12,252062,EX,Machine Learning Engineer,Consulting,S,5.2,0.8695813816870035,Executive
+0,94197,EN,Data Engineer,Energy,L,5.4,0.8695813816870035,Entry
+0,64058,EN,AI Specialist,Telecommunications,S,5.4,0.8695813816870035,Entry
+16,246594,EX,AI Research Scientist,Healthcare,M,8.7,0.8695813816870035,Executive
+3,116468,MI,AI Product Manager,Government,S,7.2,0.8695813816870035,Mid-level
+1,94166,EN,Head of AI,Media,L,9.7,0.8695813816870035,Entry
+6,170400,SE,AI Product Manager,Government,L,8.3,0.8695813816870035,Senior
+8,206183,SE,Research Scientist,Automotive,L,10.0,0.8695813816870035,Senior
+0,74551,EN,Principal Data Scientist,Real Estate,L,9.0,0.8695813816870035,Entry
+7,150847,SE,Autonomous Systems Engineer,Consulting,M,8.8,0.8695813816870035,Senior
+1,76525,EN,AI Consultant,Government,S,7.8,0.8695813816870035,Entry
+14,221753,EX,Data Scientist,Transportation,L,9.8,0.8695813816870035,Executive
+1,79199,EN,Principal Data Scientist,Finance,S,5.8,0.8695813816870035,Entry
+7,194251,SE,Data Analyst,Retail,L,9.5,0.8695813816870035,Senior
+4,115644,MI,Robotics Engineer,Telecommunications,S,5.2,0.8695813816870035,Mid-level
+9,131755,SE,Computer Vision Engineer,Real Estate,M,9.3,0.8695813816870035,Senior
+4,126348,MI,ML Ops Engineer,Manufacturing,L,7.8,0.8695813816870035,Mid-level
+13,188343,EX,AI Architect,Consulting,L,7.7,0.8695813816870035,Executive
+0,70652,EN,Data Scientist,Manufacturing,M,6.9,0.8695813816870035,Entry
+0,83974,EN,Data Engineer,Transportation,L,5.8,0.8695813816870035,Entry
+0,80466,EN,AI Research Scientist,Transportation,S,8.6,0.8695813816870035,Entry
+1,66890,EN,AI Specialist,Automotive,S,8.9,0.8695813816870035,Entry
+3,104141,MI,Data Scientist,Technology,M,7.0,0.8695813816870035,Mid-level
+4,100209,MI,AI Research Scientist,Retail,S,9.3,0.8695813816870035,Mid-level
+12,197473,EX,AI Software Engineer,Automotive,M,9.2,0.8695813816870035,Executive
+4,125422,MI,NLP Engineer,Education,M,7.9,0.8695813816870035,Mid-level
+17,344427,EX,Machine Learning Engineer,Manufacturing,L,8.0,0.8695813816870035,Executive
+1,77644,EN,AI Consultant,Transportation,M,7.2,0.8695813816870035,Entry
+15,160384,EX,AI Specialist,Education,S,6.5,0.8695813816870035,Executive
+4,106735,MI,NLP Engineer,Healthcare,S,5.6,0.8695813816870035,Mid-level
+16,241126,EX,AI Architect,Consulting,L,5.8,0.8695813816870035,Executive
+14,211093,EX,Principal Data Scientist,Retail,S,9.0,0.8695813816870035,Executive
+4,128063,MI,Robotics Engineer,Manufacturing,M,7.3,0.8695813816870035,Mid-level
+7,165150,SE,Machine Learning Engineer,Transportation,L,9.5,0.8695813816870035,Senior
+3,120166,MI,Machine Learning Engineer,Media,M,8.2,0.8695813816870035,Mid-level
+8,166527,SE,Research Scientist,Transportation,L,8.7,0.8695813816870035,Senior
+0,82225,EN,Deep Learning Engineer,Energy,M,9.4,0.8695813816870035,Entry
+0,76935,EN,Data Analyst,Consulting,M,9.0,0.8695813816870035,Entry
+1,82514,EN,Robotics Engineer,Consulting,L,6.3,0.8695813816870035,Entry
+1,74095,EN,Principal Data Scientist,Automotive,S,9.2,0.8695813816870035,Entry
+6,144304,SE,ML Ops Engineer,Technology,L,6.4,0.8695813816870035,Senior
+1,73171,EN,Data Scientist,Healthcare,L,6.9,0.8695813816870035,Entry
+19,196404,EX,Data Scientist,Consulting,L,6.1,0.8695813816870035,Executive
+5,160195,SE,AI Specialist,Manufacturing,L,8.9,0.8695813816870035,Senior
+3,129224,MI,Autonomous Systems Engineer,Healthcare,M,6.5,0.8695813816870035,Mid-level
+0,78557,EN,Robotics Engineer,Consulting,S,9.0,0.8695813816870035,Entry
+13,254532,EX,Research Scientist,Transportation,L,9.8,0.8695813816870035,Executive
+2,145735,MI,Autonomous Systems Engineer,Education,L,6.7,0.8695813816870035,Mid-level
+3,134033,MI,AI Consultant,Technology,L,5.9,0.8695813816870035,Mid-level
+7,123565,SE,Principal Data Scientist,Automotive,M,6.0,0.8695813816870035,Senior
+6,131033,SE,AI Research Scientist,Transportation,S,6.2,0.8695813816870035,Senior
+6,202653,SE,AI Product Manager,Retail,L,6.0,0.8695813816870035,Senior
+0,87965,EN,Machine Learning Engineer,Gaming,L,8.4,0.8695813816870035,Entry
+12,191955,EX,AI Specialist,Government,S,6.7,0.8695813816870035,Executive
+1,80026,EN,AI Consultant,Telecommunications,L,9.6,0.8695813816870035,Entry
+8,156521,SE,NLP Engineer,Finance,L,9.5,0.8695813816870035,Senior
+15,223297,EX,Robotics Engineer,Energy,L,8.1,0.8695813816870035,Executive
+11,295466,EX,AI Architect,Manufacturing,M,5.3,0.8695813816870035,Executive
+6,139759,SE,Data Engineer,Manufacturing,M,9.5,0.8695813816870035,Senior
+1,101929,EN,AI Specialist,Healthcare,L,7.4,0.8695813816870035,Entry
+1,74870,EN,Deep Learning Engineer,Transportation,M,5.8,0.8695813816870035,Entry
+6,129684,SE,AI Product Manager,Transportation,M,6.6,0.8695813816870035,Senior
+1,70238,EN,AI Architect,Technology,S,9.2,0.8695813816870035,Entry
+17,242002,EX,Computer Vision Engineer,Healthcare,M,9.8,0.8695813816870035,Executive
+5,167633,SE,Machine Learning Researcher,Finance,M,6.2,0.8695813816870035,Senior
+1,100893,EN,Data Scientist,Education,L,9.2,0.8695813816870035,Entry
+19,235948,EX,Data Engineer,Automotive,M,9.2,0.8695813816870035,Executive
+10,271783,EX,Deep Learning Engineer,Retail,L,9.7,0.8695813816870035,Executive
+4,105608,MI,Research Scientist,Finance,L,6.7,0.8695813816870035,Mid-level
+6,155430,SE,Head of AI,Consulting,L,5.5,0.8695813816870035,Senior
+8,178054,SE,Data Analyst,Technology,L,6.3,0.8695813816870035,Senior
+4,88025,MI,Head of AI,Transportation,M,6.8,0.8695813816870035,Mid-level
+13,213258,EX,AI Consultant,Technology,S,6.0,0.8695813816870035,Executive
+3,101191,MI,AI Research Scientist,Automotive,S,9.9,0.8695813816870035,Mid-level
+2,105448,MI,Research Scientist,Manufacturing,S,7.4,0.8695813816870035,Mid-level
+0,85149,EN,Autonomous Systems Engineer,Energy,M,5.6,0.8695813816870035,Entry
+9,128048,SE,AI Software Engineer,Real Estate,M,9.9,0.8695813816870035,Senior
+2,128240,MI,Data Scientist,Healthcare,L,5.6,0.8695813816870035,Mid-level
+1,85456,EN,Head of AI,Education,L,5.7,0.8695813816870035,Entry
+0,103217,EN,AI Software Engineer,Transportation,L,6.2,0.8695813816870035,Entry
+1,105534,EN,Data Analyst,Automotive,L,8.8,0.8695813816870035,Entry
+9,138714,SE,Autonomous Systems Engineer,Manufacturing,M,7.5,0.8695813816870035,Senior
+1,67848,EN,Robotics Engineer,Healthcare,S,6.8,0.8695813816870035,Entry
+6,135921,SE,NLP Engineer,Retail,S,8.5,0.8695813816870035,Senior
+5,143497,SE,Machine Learning Engineer,Technology,M,8.3,0.8695813816870035,Senior
+19,198149,EX,AI Research Scientist,Consulting,L,8.0,0.8695813816870035,Executive
+12,196089,EX,AI Product Manager,Technology,M,7.8,0.8695813816870035,Executive
+7,188300,SE,Data Analyst,Energy,L,6.3,0.8695813816870035,Senior
+2,112582,MI,AI Consultant,Finance,S,6.8,0.8695813816870035,Mid-level
+3,124958,MI,Computer Vision Engineer,Healthcare,L,6.7,0.8695813816870035,Mid-level
+4,127768,MI,Data Engineer,Transportation,L,8.6,0.8695813816870035,Mid-level
+0,86860,EN,AI Specialist,Automotive,L,5.6,0.8695813816870035,Entry
+13,200644,EX,AI Specialist,Gaming,S,9.2,0.8695813816870035,Executive
+3,108752,MI,Autonomous Systems Engineer,Transportation,L,6.2,0.8695813816870035,Mid-level
+10,200943,EX,AI Software Engineer,Finance,M,5.6,0.8695813816870035,Executive
+1,70667,EN,Head of AI,Consulting,S,7.1,0.8695813816870035,Entry
+11,163837,EX,Robotics Engineer,Finance,S,6.3,0.8695813816870035,Executive
+4,91469,MI,Data Analyst,Education,M,8.2,0.8695813816870035,Mid-level
+8,131026,SE,Principal Data Scientist,Education,S,7.2,0.8695813816870035,Senior
+2,99582,MI,AI Software Engineer,Manufacturing,S,8.5,0.8695813816870035,Mid-level
+8,161789,SE,AI Research Scientist,Consulting,M,8.5,0.8695813816870035,Senior
+3,95420,MI,Research Scientist,Telecommunications,M,6.3,0.8695813816870035,Mid-level
+19,242800,EX,Data Scientist,Government,L,9.2,0.8695813816870035,Executive
+5,163845,SE,Head of AI,Healthcare,M,8.6,0.8695813816870035,Senior
+16,333453,EX,Head of AI,Retail,L,6.5,0.8695813816870035,Executive
+1,108792,EN,Data Engineer,Energy,L,6.5,0.8695813816870035,Entry
+6,196977,SE,Research Scientist,Finance,L,9.2,0.8695813816870035,Senior
+2,85781,MI,Autonomous Systems Engineer,Media,M,7.7,0.8695813816870035,Mid-level
+16,229837,EX,NLP Engineer,Finance,M,6.5,0.8695813816870035,Executive
+6,137124,SE,AI Consultant,Transportation,S,9.7,0.8695813816870035,Senior
+0,79146,EN,Machine Learning Researcher,Technology,M,9.6,0.8695813816870035,Entry
+3,91766,MI,AI Research Scientist,Media,S,5.3,0.8695813816870035,Mid-level
+0,62960,EN,Research Scientist,Transportation,M,5.4,0.8695813816870035,Entry
+8,111829,SE,AI Research Scientist,Retail,S,8.5,0.8695813816870035,Senior
+17,226237,EX,AI Product Manager,Media,L,9.4,0.8695813816870035,Executive
+8,206671,SE,Data Scientist,Media,L,5.4,0.8695813816870035,Senior
+12,149701,EX,Deep Learning Engineer,Gaming,S,5.7,0.8695813816870035,Executive
+6,147062,SE,Robotics Engineer,Real Estate,S,5.3,0.8695813816870035,Senior
+1,91074,EN,ML Ops Engineer,Healthcare,M,6.6,0.8695813816870035,Entry
+0,84874,EN,Head of AI,Media,L,8.0,0.8695813816870035,Entry
+17,254546,EX,Machine Learning Researcher,Retail,M,9.0,0.8695813816870035,Executive
+1,73888,EN,AI Specialist,Gaming,M,8.9,0.8695813816870035,Entry
+5,153245,SE,AI Architect,Transportation,M,9.2,0.8695813816870035,Senior
+3,128834,MI,Deep Learning Engineer,Energy,M,5.1,0.8695813816870035,Mid-level
+10,251576,EX,Deep Learning Engineer,Technology,L,6.6,0.8695813816870035,Executive
+6,165249,SE,AI Specialist,Automotive,L,9.7,0.8695813816870035,Senior
+0,71226,EN,Robotics Engineer,Government,S,8.6,0.8695813816870035,Entry
+7,157668,SE,AI Consultant,Energy,L,6.5,0.8695813816870035,Senior
+0,82586,EN,AI Software Engineer,Energy,L,9.8,0.8695813816870035,Entry
+3,92683,MI,AI Specialist,Energy,S,6.6,0.8695813816870035,Mid-level
+16,205464,EX,Computer Vision Engineer,Education,S,5.7,0.8695813816870035,Executive
+3,118751,MI,Principal Data Scientist,Transportation,M,9.2,0.8695813816870035,Mid-level
+1,88503,EN,Data Analyst,Transportation,L,9.2,0.8695813816870035,Entry
+7,158041,SE,Research Scientist,Education,L,8.9,0.8695813816870035,Senior
+4,97247,MI,Principal Data Scientist,Media,S,5.3,0.8695813816870035,Mid-level
+4,102471,MI,AI Architect,Telecommunications,M,6.9,0.8695813816870035,Mid-level
+17,262522,EX,AI Software Engineer,Real Estate,M,8.4,0.8695813816870035,Executive
+9,182055,SE,AI Software Engineer,Telecommunications,L,5.4,0.8695813816870035,Senior
+9,181422,SE,AI Specialist,Healthcare,L,8.4,0.8695813816870035,Senior
+1,72130,EN,Research Scientist,Telecommunications,M,7.3,0.8695813816870035,Entry
+9,161002,SE,Autonomous Systems Engineer,Real Estate,L,9.2,0.8695813816870035,Senior
+6,147558,SE,Data Engineer,Automotive,M,9.9,0.8695813816870035,Senior
+4,114816,MI,NLP Engineer,Telecommunications,M,8.7,0.8695813816870035,Mid-level
+0,93642,EN,AI Research Scientist,Consulting,L,5.7,0.8695813816870035,Entry
+8,165208,SE,Computer Vision Engineer,Energy,M,7.3,0.8695813816870035,Senior
+1,93535,EN,Principal Data Scientist,Transportation,L,9.0,0.8695813816870035,Entry
+3,122978,MI,AI Product Manager,Finance,L,5.7,0.8695813816870035,Mid-level
+16,205814,EX,Machine Learning Researcher,Transportation,S,7.4,0.8695813816870035,Executive
+1,84304,EN,NLP Engineer,Education,S,5.2,0.8695813816870035,Entry
+3,92066,MI,Machine Learning Researcher,Real Estate,M,5.6,0.8695813816870035,Mid-level
+3,118123,MI,Data Analyst,Retail,M,5.6,0.8695813816870035,Mid-level
+19,343803,EX,Head of AI,Government,L,9.5,0.8695813816870035,Executive
+12,252916,EX,Principal Data Scientist,Consulting,L,6.6,0.8695813816870035,Executive
+4,129701,MI,Deep Learning Engineer,Telecommunications,L,6.4,0.8695813816870035,Mid-level
+3,77772,MI,AI Consultant,Healthcare,S,5.2,0.8695813816870035,Mid-level
+2,149281,MI,Head of AI,Government,L,5.4,0.8695813816870035,Mid-level
+1,78857,EN,Head of AI,Government,S,8.1,0.8695813816870035,Entry
+0,77785,EN,Data Analyst,Manufacturing,S,5.5,0.8695813816870035,Entry
+2,87393,MI,AI Consultant,Media,M,6.2,0.8695813816870035,Mid-level
+4,126294,MI,AI Research Scientist,Finance,L,8.0,0.8695813816870035,Mid-level
+19,201093,EX,Machine Learning Researcher,Transportation,S,8.0,0.8695813816870035,Executive
+1,86424,EN,Research Scientist,Manufacturing,M,5.5,0.8695813816870035,Entry
+8,110342,SE,Data Engineer,Real Estate,S,7.8,0.8695813816870035,Senior
+1,71649,EN,Deep Learning Engineer,Retail,L,7.7,0.8695813816870035,Entry
+18,166659,EX,Data Analyst,Consulting,M,8.8,0.8695813816870035,Executive
+2,93342,MI,Data Engineer,Government,S,6.3,0.8695813816870035,Mid-level
+7,128378,SE,AI Consultant,Manufacturing,S,6.5,0.8695813816870035,Senior
+10,264666,EX,Data Scientist,Finance,S,9.3,0.8695813816870035,Executive
+0,68035,EN,Deep Learning Engineer,Manufacturing,M,7.6,0.8695813816870035,Entry
+2,112827,MI,AI Product Manager,Government,S,7.8,0.8695813816870035,Mid-level
+4,96605,MI,Machine Learning Researcher,Transportation,M,9.3,0.8695813816870035,Mid-level
+0,65486,EN,Data Scientist,Transportation,M,9.6,0.8695813816870035,Entry
+1,81881,EN,AI Specialist,Energy,L,8.8,0.8695813816870035,Entry
+2,88007,MI,AI Product Manager,Education,S,7.4,0.8695813816870035,Mid-level
+0,75675,EN,Computer Vision Engineer,Consulting,L,5.4,0.8695813816870035,Entry
+1,69639,EN,Data Scientist,Energy,L,6.7,0.8695813816870035,Entry
+16,323188,EX,Data Scientist,Automotive,L,9.1,0.8695813816870035,Executive
+4,89214,MI,Data Engineer,Consulting,M,8.6,0.8695813816870035,Mid-level
+1,71737,EN,AI Product Manager,Manufacturing,S,7.9,0.8695813816870035,Entry
+4,89120,MI,Data Analyst,Manufacturing,M,6.6,0.8695813816870035,Mid-level
+2,113790,MI,AI Consultant,Real Estate,L,7.8,0.8695813816870035,Mid-level
+19,175456,EX,AI Research Scientist,Automotive,S,7.8,0.8695813816870035,Executive
+0,64652,EN,Data Engineer,Education,M,5.1,0.8695813816870035,Entry
+7,150491,SE,AI Consultant,Media,L,6.4,0.8695813816870035,Senior
+17,281132,EX,AI Software Engineer,Retail,M,9.2,0.8695813816870035,Executive
+17,272950,EX,Head of AI,Government,L,7.6,0.8695813816870035,Executive
+7,175391,SE,Data Scientist,Telecommunications,M,9.7,0.8695813816870035,Senior
+0,79383,EN,Principal Data Scientist,Retail,L,8.5,0.8695813816870035,Entry
+8,137878,SE,ML Ops Engineer,Finance,S,6.2,0.8695813816870035,Senior
+8,158629,SE,Data Analyst,Transportation,S,7.5,0.8695813816870035,Senior
+7,132939,SE,AI Software Engineer,Retail,S,7.3,0.8695813816870035,Senior
+19,314917,EX,Computer Vision Engineer,Technology,L,6.9,0.8695813816870035,Executive
+0,68567,EN,Deep Learning Engineer,Telecommunications,M,7.5,0.8695813816870035,Entry
+4,102328,MI,Data Scientist,Retail,L,6.2,0.8695813816870035,Mid-level
+4,116690,MI,Autonomous Systems Engineer,Telecommunications,S,9.7,0.8695813816870035,Mid-level
+0,105730,EN,AI Software Engineer,Consulting,L,9.1,0.8695813816870035,Entry
+0,76020,EN,AI Software Engineer,Telecommunications,S,9.0,0.8695813816870035,Entry
+12,269578,EX,NLP Engineer,Consulting,S,9.7,0.8695813816870035,Executive
+4,101036,MI,Head of AI,Real Estate,M,5.1,0.8695813816870035,Mid-level
+3,143399,MI,Head of AI,Retail,L,9.5,0.8695813816870035,Mid-level
+5,133606,SE,AI Product Manager,Gaming,S,5.8,0.8695813816870035,Senior
+0,83345,EN,Principal Data Scientist,Manufacturing,L,5.7,0.8695813816870035,Entry
+1,72617,EN,Machine Learning Engineer,Automotive,S,7.3,0.8695813816870035,Entry
+6,160731,SE,Robotics Engineer,Real Estate,S,9.8,0.8695813816870035,Senior
+8,142025,SE,NLP Engineer,Technology,M,5.9,0.8695813816870035,Senior
+17,288145,EX,AI Specialist,Government,L,8.4,0.8695813816870035,Executive
+8,154588,SE,Research Scientist,Education,S,9.8,0.8695813816870035,Senior
+15,262898,EX,AI Software Engineer,Education,M,8.5,0.8695813816870035,Executive
+0,75944,EN,Autonomous Systems Engineer,Manufacturing,M,5.7,0.8695813816870035,Entry
+0,83296,EN,Machine Learning Researcher,Retail,S,6.3,0.8695813816870035,Entry
+16,265466,EX,AI Architect,Finance,M,6.1,0.8695813816870035,Executive
+3,88316,MI,NLP Engineer,Energy,M,8.1,0.8695813816870035,Mid-level
+5,158061,SE,Machine Learning Researcher,Telecommunications,M,8.9,0.8695813816870035,Senior
+1,97795,EN,Data Engineer,Telecommunications,L,5.6,0.8695813816870035,Entry
+4,118988,MI,NLP Engineer,Media,M,9.2,0.8695813816870035,Mid-level
+1,81930,EN,AI Software Engineer,Healthcare,M,8.7,0.8695813816870035,Entry
+3,100642,MI,AI Research Scientist,Automotive,S,9.1,0.8695813816870035,Mid-level
+17,244234,EX,Principal Data Scientist,Consulting,S,9.3,0.8695813816870035,Executive
+4,110564,MI,Data Engineer,Education,M,5.1,0.8695813816870035,Mid-level
+1,93219,EN,Computer Vision Engineer,Real Estate,M,9.1,0.8695813816870035,Entry
+13,264244,EX,Autonomous Systems Engineer,Retail,M,6.0,0.8695813816870035,Executive
+8,145701,SE,Machine Learning Engineer,Government,M,7.8,0.8695813816870035,Senior
+6,176405,SE,NLP Engineer,Media,L,8.6,0.8695813816870035,Senior
+11,221771,EX,Data Scientist,Manufacturing,L,8.8,0.8695813816870035,Executive
+5,174490,SE,AI Research Scientist,Media,M,7.9,0.8695813816870035,Senior
+8,119614,SE,Data Analyst,Real Estate,S,7.8,0.8695813816870035,Senior
+6,198051,SE,AI Specialist,Retail,L,6.4,0.8695813816870035,Senior
+0,81597,EN,ML Ops Engineer,Energy,L,9.3,0.8695813816870035,Entry
+3,112398,MI,AI Architect,Real Estate,S,8.9,0.8695813816870035,Mid-level
+4,94981,MI,Machine Learning Researcher,Real Estate,S,9.0,0.8695813816870035,Mid-level
+10,160127,EX,Machine Learning Researcher,Real Estate,M,6.4,0.8695813816870035,Executive
+10,245667,EX,Head of AI,Telecommunications,L,5.4,0.8695813816870035,Executive
+3,135101,MI,Data Engineer,Education,L,5.3,0.8695813816870035,Mid-level
+9,145208,SE,Deep Learning Engineer,Consulting,L,5.2,0.8695813816870035,Senior
+3,88443,MI,ML Ops Engineer,Retail,S,9.2,0.8695813816870035,Mid-level
+0,87725,EN,Robotics Engineer,Telecommunications,L,9.5,0.8695813816870035,Entry
+1,60728,EN,ML Ops Engineer,Media,M,9.5,0.8695813816870035,Entry
+6,134914,SE,Principal Data Scientist,Real Estate,S,9.2,0.8695813816870035,Senior
+5,125079,SE,AI Specialist,Education,S,7.4,0.8695813816870035,Senior
+7,122187,SE,Robotics Engineer,Media,S,6.1,0.8695813816870035,Senior
+3,104690,MI,Autonomous Systems Engineer,Government,S,7.7,0.8695813816870035,Mid-level
+19,200293,EX,Machine Learning Researcher,Gaming,L,6.2,0.8695813816870035,Executive
+2,119820,MI,Robotics Engineer,Media,L,5.5,0.8695813816870035,Mid-level
+15,344471,EX,Data Analyst,Retail,L,8.1,0.8695813816870035,Executive
+2,118958,MI,Head of AI,Finance,L,9.4,0.8695813816870035,Mid-level
+6,157579,SE,Autonomous Systems Engineer,Government,S,7.6,0.8695813816870035,Senior
+19,199538,EX,Data Analyst,Healthcare,S,9.7,0.8695813816870035,Executive
+15,223318,EX,AI Architect,Consulting,L,6.0,0.8695813816870035,Executive
+0,81095,EN,Data Analyst,Technology,M,5.4,0.8695813816870035,Entry
+16,190915,EX,Data Analyst,Education,S,9.5,0.8695813816870035,Executive
+0,60631,EN,Deep Learning Engineer,Finance,M,9.7,0.8695813816870035,Entry
+2,125056,MI,Data Scientist,Finance,M,7.1,0.8695813816870035,Mid-level
+0,71367,EN,Data Analyst,Education,M,9.7,0.8695813816870035,Entry
+1,91037,EN,Data Engineer,Education,M,8.2,0.8695813816870035,Entry
+1,71276,EN,Data Analyst,Telecommunications,M,9.1,0.8695813816870035,Entry
+4,87074,MI,Data Scientist,Energy,S,5.7,0.8695813816870035,Mid-level
+1,82499,EN,NLP Engineer,Automotive,M,6.6,0.8695813816870035,Entry
+4,119155,MI,Data Scientist,Consulting,M,6.1,0.8695813816870035,Mid-level
+11,252091,EX,ML Ops Engineer,Retail,M,9.5,0.8695813816870035,Executive
+17,319984,EX,Computer Vision Engineer,Automotive,L,9.0,0.8695813816870035,Executive
+1,79223,EN,AI Architect,Energy,S,9.7,0.8695813816870035,Entry
+9,115494,SE,AI Software Engineer,Government,S,6.4,0.8695813816870035,Senior
+1,79910,EN,Computer Vision Engineer,Technology,M,6.0,0.8695813816870035,Entry
+6,189050,SE,Data Engineer,Manufacturing,L,7.7,0.8695813816870035,Senior
+1,108308,EN,AI Product Manager,Manufacturing,L,7.0,0.8695813816870035,Entry
+0,59600,EN,ML Ops Engineer,Retail,S,5.1,0.8695813816870035,Entry
+2,110574,MI,AI Software Engineer,Manufacturing,M,8.0,0.8695813816870035,Mid-level
+1,75816,EN,Data Engineer,Technology,L,7.1,0.8695813816870035,Entry
+9,141751,SE,Deep Learning Engineer,Transportation,S,8.1,0.8695813816870035,Senior
+6,187729,SE,AI Consultant,Automotive,L,5.4,0.8695813816870035,Senior
+11,257606,EX,Research Scientist,Media,L,6.8,0.8695813816870035,Executive
+3,115814,MI,AI Research Scientist,Gaming,M,8.0,0.8695813816870035,Mid-level
+5,172008,SE,Data Engineer,Government,L,6.8,0.8695813816870035,Senior
+6,120666,SE,Head of AI,Education,M,5.4,0.8695813816870035,Senior
+4,107214,MI,Head of AI,Education,L,5.3,0.8695813816870035,Mid-level
+1,81023,EN,AI Specialist,Automotive,S,7.5,0.8695813816870035,Entry
+3,105730,MI,AI Product Manager,Real Estate,L,7.4,0.8695813816870035,Mid-level
+12,222351,EX,Principal Data Scientist,Government,S,9.3,0.8695813816870035,Executive
+3,116096,MI,AI Consultant,Transportation,M,7.5,0.8695813816870035,Mid-level
+17,341312,EX,Data Scientist,Healthcare,L,9.5,0.8695813816870035,Executive
+5,114834,SE,Head of AI,Gaming,S,9.5,0.8695813816870035,Senior
+8,192376,SE,Computer Vision Engineer,Technology,L,8.7,0.8695813816870035,Senior
+0,70218,EN,AI Product Manager,Gaming,S,8.4,0.8695813816870035,Entry
+11,167357,EX,NLP Engineer,Technology,S,9.8,0.8695813816870035,Executive
+1,69051,EN,Robotics Engineer,Education,M,9.2,0.8695813816870035,Entry
+0,79112,EN,Principal Data Scientist,Energy,M,8.8,0.8695813816870035,Entry
+13,261421,EX,AI Consultant,Real Estate,S,5.5,0.8695813816870035,Executive
+0,104709,EN,AI Consultant,Consulting,L,7.4,0.8695813816870035,Entry
+15,196297,EX,Machine Learning Engineer,Media,L,7.3,0.8695813816870035,Executive
+2,140303,MI,ML Ops Engineer,Consulting,L,8.8,0.8695813816870035,Mid-level
+1,83895,EN,Deep Learning Engineer,Consulting,M,8.3,0.8695813816870035,Entry
+18,206941,EX,Machine Learning Engineer,Gaming,S,9.7,0.8695813816870035,Executive
+6,138226,SE,Robotics Engineer,Media,S,8.7,0.8695813816870035,Senior
+5,132486,SE,Autonomous Systems Engineer,Telecommunications,M,8.3,0.8695813816870035,Senior
+4,130372,MI,AI Consultant,Retail,L,6.0,0.8695813816870035,Mid-level
+12,251751,EX,AI Research Scientist,Retail,M,6.6,0.8695813816870035,Executive
+4,100793,MI,AI Product Manager,Energy,S,6.2,0.8695813816870035,Mid-level
+13,239906,EX,Autonomous Systems Engineer,Retail,S,7.2,0.8695813816870035,Executive
+0,83942,EN,Principal Data Scientist,Finance,L,5.2,0.8695813816870035,Entry
+1,106715,EN,Head of AI,Government,L,9.5,0.8695813816870035,Entry
+3,123878,MI,NLP Engineer,Healthcare,L,9.0,0.8695813816870035,Mid-level
+10,144454,EX,Robotics Engineer,Telecommunications,S,9.9,0.8695813816870035,Executive
+18,206492,EX,NLP Engineer,Education,L,7.0,0.8695813816870035,Executive
+0,73105,EN,Data Engineer,Real Estate,L,6.6,0.8695813816870035,Entry
+2,101218,MI,Autonomous Systems Engineer,Retail,L,9.5,0.8695813816870035,Mid-level
+0,75344,EN,AI Software Engineer,Real Estate,S,7.2,0.8695813816870035,Entry
+9,163318,SE,AI Specialist,Technology,M,7.7,0.8695813816870035,Senior
+2,92744,MI,Research Scientist,Education,S,9.5,0.8695813816870035,Mid-level
+1,72522,EN,Head of AI,Gaming,S,8.4,0.8695813816870035,Entry
+4,135405,MI,Research Scientist,Energy,L,9.0,0.8695813816870035,Mid-level
+6,172063,SE,AI Product Manager,Transportation,L,6.0,0.8695813816870035,Senior
+0,104041,EN,ML Ops Engineer,Government,L,9.3,0.8695813816870035,Entry
+17,220469,EX,AI Product Manager,Healthcare,S,5.4,0.8695813816870035,Executive
+19,293738,EX,Principal Data Scientist,Consulting,M,5.6,0.8695813816870035,Executive
+4,89851,MI,AI Specialist,Automotive,M,5.4,0.8695813816870035,Mid-level
+14,268156,EX,Data Analyst,Gaming,M,5.5,0.8695813816870035,Executive
+3,88489,MI,Computer Vision Engineer,Real Estate,M,8.1,0.8695813816870035,Mid-level
+1,104373,EN,AI Architect,Finance,L,9.1,0.8695813816870035,Entry
+10,249119,EX,Data Engineer,Retail,S,9.2,0.8695813816870035,Executive
+16,267028,EX,Machine Learning Researcher,Transportation,S,9.5,0.8695813816870035,Executive
+3,143495,MI,Machine Learning Engineer,Transportation,L,5.7,0.8695813816870035,Mid-level
+3,92991,MI,AI Architect,Telecommunications,S,9.3,0.8695813816870035,Mid-level
+9,147884,SE,AI Software Engineer,Real Estate,M,8.7,0.8695813816870035,Senior
+1,78601,EN,AI Software Engineer,Retail,S,8.9,0.8695813816870035,Entry
+11,191497,EX,Principal Data Scientist,Gaming,M,6.2,0.8695813816870035,Executive
+0,92828,EN,Data Engineer,Manufacturing,L,8.6,0.8695813816870035,Entry
+4,133644,MI,Principal Data Scientist,Government,L,7.5,0.8695813816870035,Mid-level
+2,145616,MI,Data Scientist,Retail,L,9.7,0.8695813816870035,Mid-level
+17,226035,EX,Autonomous Systems Engineer,Real Estate,M,6.1,0.8695813816870035,Executive
+1,101196,EN,AI Architect,Gaming,L,9.0,0.8695813816870035,Entry
+0,94865,EN,Robotics Engineer,Automotive,M,5.3,0.8695813816870035,Entry
+4,119646,MI,Deep Learning Engineer,Finance,L,9.3,0.8695813816870035,Mid-level
+3,104021,MI,Robotics Engineer,Transportation,L,7.6,0.8695813816870035,Mid-level
+0,62357,EN,AI Specialist,Automotive,S,8.2,0.8695813816870035,Entry
+6,164699,SE,Machine Learning Engineer,Real Estate,L,6.8,0.8695813816870035,Senior
+5,114824,SE,Machine Learning Engineer,Media,S,6.7,0.8695813816870035,Senior
+9,194354,SE,Data Analyst,Gaming,L,5.9,0.8695813816870035,Senior
+16,255450,EX,Deep Learning Engineer,Consulting,M,9.7,0.8695813816870035,Executive
+18,243811,EX,Autonomous Systems Engineer,Real Estate,M,5.3,0.8695813816870035,Executive
+0,69531,EN,Autonomous Systems Engineer,Healthcare,S,6.8,0.8695813816870035,Entry
+3,101059,MI,AI Architect,Automotive,M,9.5,0.8695813816870035,Mid-level
+11,213368,EX,AI Consultant,Healthcare,M,7.8,0.8695813816870035,Executive
+0,83033,EN,AI Research Scientist,Telecommunications,L,9.5,0.8695813816870035,Entry
+2,123058,MI,Data Analyst,Media,M,8.6,0.8695813816870035,Mid-level
+1,86047,EN,Machine Learning Engineer,Gaming,M,5.0,0.8695813816870035,Entry
+4,98399,MI,Deep Learning Engineer,Retail,L,5.3,0.8695813816870035,Mid-level
+16,273986,EX,Autonomous Systems Engineer,Healthcare,M,5.5,0.8695813816870035,Executive
+19,222682,EX,Autonomous Systems Engineer,Government,S,8.9,0.8695813816870035,Executive
+9,176147,SE,NLP Engineer,Healthcare,L,7.1,0.8695813816870035,Senior
+6,113185,SE,ML Ops Engineer,Education,S,7.3,0.8695813816870035,Senior
+7,134019,SE,Data Scientist,Automotive,M,9.6,0.8695813816870035,Senior
+0,93577,EN,Head of AI,Manufacturing,M,6.6,0.8695813816870035,Entry
+17,214890,EX,Head of AI,Transportation,S,9.2,0.8695813816870035,Executive
+1,94026,EN,AI Product Manager,Education,M,5.9,0.8695813816870035,Entry
+8,128209,SE,AI Software Engineer,Consulting,S,9.3,0.8695813816870035,Senior
+0,94088,EN,Robotics Engineer,Gaming,M,7.9,0.8695813816870035,Entry
+2,84345,MI,Data Scientist,Automotive,S,7.7,0.8695813816870035,Mid-level
+6,177802,SE,NLP Engineer,Technology,M,6.6,0.8695813816870035,Senior
+0,54512,EN,AI Consultant,Energy,S,6.8,0.8695813816870035,Entry
+18,239967,EX,AI Software Engineer,Education,S,7.5,0.8695813816870035,Executive
+0,71915,EN,Machine Learning Engineer,Manufacturing,S,6.0,0.8695813816870035,Entry
+6,152336,SE,Deep Learning Engineer,Technology,L,9.5,0.8695813816870035,Senior
+19,258225,EX,AI Architect,Retail,S,9.9,0.8695813816870035,Executive
+16,250931,EX,AI Software Engineer,Government,S,8.6,0.8695813816870035,Executive
+4,105893,MI,Research Scientist,Government,M,5.7,0.8695813816870035,Mid-level
+1,70814,EN,Head of AI,Government,M,6.1,0.8695813816870035,Entry
+11,218302,EX,AI Architect,Government,L,8.7,0.8695813816870035,Executive
+1,88754,EN,Computer Vision Engineer,Finance,L,8.5,0.8695813816870035,Entry
+9,146811,SE,NLP Engineer,Consulting,S,5.9,0.8695813816870035,Senior
+2,90650,MI,AI Research Scientist,Healthcare,M,8.5,0.8695813816870035,Mid-level
+7,158140,SE,Machine Learning Engineer,Government,S,7.6,0.8695813816870035,Senior
+2,89619,MI,Research Scientist,Retail,M,7.3,0.8695813816870035,Mid-level
+4,123483,MI,Deep Learning Engineer,Real Estate,M,9.8,0.8695813816870035,Mid-level
+14,290462,EX,NLP Engineer,Finance,M,8.2,0.8695813816870035,Executive
+15,222864,EX,ML Ops Engineer,Real Estate,L,9.8,0.8695813816870035,Executive
+17,217171,EX,Machine Learning Researcher,Education,M,5.5,0.8695813816870035,Executive
+4,85711,MI,NLP Engineer,Transportation,S,8.8,0.8695813816870035,Mid-level
+6,162756,SE,Machine Learning Researcher,Automotive,M,6.4,0.8695813816870035,Senior
+2,107502,MI,Autonomous Systems Engineer,Transportation,S,7.6,0.8695813816870035,Mid-level
+0,74422,EN,Head of AI,Technology,L,8.8,0.8695813816870035,Entry
+10,232326,EX,AI Architect,Telecommunications,M,9.5,0.8695813816870035,Executive
+6,202828,SE,Data Scientist,Real Estate,L,9.8,0.8695813816870035,Senior
+7,182497,SE,Robotics Engineer,Education,L,6.5,0.8695813816870035,Senior
+2,135799,MI,Principal Data Scientist,Technology,L,6.9,0.8695813816870035,Mid-level
+13,306077,EX,AI Specialist,Media,L,8.4,0.8695813816870035,Executive
+1,68777,EN,AI Consultant,Consulting,S,7.6,0.8695813816870035,Entry
+1,61447,EN,ML Ops Engineer,Transportation,S,9.9,0.8695813816870035,Entry
+0,73776,EN,AI Research Scientist,Automotive,M,5.0,0.8695813816870035,Entry
+2,101876,MI,ML Ops Engineer,Transportation,L,8.1,0.8695813816870035,Mid-level
+3,136520,MI,AI Specialist,Finance,L,6.5,0.8695813816870035,Mid-level
+11,186582,EX,ML Ops Engineer,Energy,S,9.5,0.8695813816870035,Executive
+6,122849,SE,Principal Data Scientist,Healthcare,S,9.1,0.8695813816870035,Senior
+4,77620,MI,Data Engineer,Real Estate,S,7.1,0.8695813816870035,Mid-level
+19,284883,EX,Computer Vision Engineer,Finance,L,5.0,0.8695813816870035,Executive
+17,268445,EX,Research Scientist,Finance,L,8.3,0.8695813816870035,Executive
+2,84479,MI,AI Architect,Transportation,S,5.2,0.8695813816870035,Mid-level
+0,54803,EN,Autonomous Systems Engineer,Education,S,5.2,0.8695813816870035,Entry
+8,133478,SE,Robotics Engineer,Retail,M,6.7,0.8695813816870035,Senior
+10,266349,EX,Head of AI,Gaming,S,5.9,0.8695813816870035,Executive
+2,112293,MI,AI Consultant,Retail,S,8.9,0.8695813816870035,Mid-level
+1,94867,EN,Data Analyst,Real Estate,L,5.7,0.8695813816870035,Entry
+7,132940,SE,Data Scientist,Technology,S,6.7,0.8695813816870035,Senior
+9,137067,SE,AI Specialist,Retail,S,6.9,0.8695813816870035,Senior
+9,127966,SE,AI Research Scientist,Automotive,M,7.8,0.8695813816870035,Senior
+9,142828,SE,Machine Learning Researcher,Government,M,7.0,0.8695813816870035,Senior
+4,108726,MI,Principal Data Scientist,Gaming,M,6.9,0.8695813816870035,Mid-level
+1,78716,EN,ML Ops Engineer,Gaming,L,9.7,0.8695813816870035,Entry
+15,261178,EX,AI Consultant,Real Estate,S,9.0,0.8695813816870035,Executive
+0,106078,EN,Data Engineer,Technology,L,8.3,0.8695813816870035,Entry
+8,147997,SE,Head of AI,Telecommunications,S,5.5,0.8695813816870035,Senior
+16,238297,EX,Principal Data Scientist,Media,L,9.1,0.8695813816870035,Executive
+9,156729,SE,AI Architect,Automotive,L,6.5,0.8695813816870035,Senior
+3,89180,MI,Research Scientist,Energy,S,9.6,0.8695813816870035,Mid-level
+18,172447,EX,Robotics Engineer,Telecommunications,S,5.9,0.8695813816870035,Executive
+7,116616,SE,AI Product Manager,Government,S,8.5,0.8695813816870035,Senior
+4,132806,MI,Data Scientist,Transportation,L,6.2,0.8695813816870035,Mid-level
+2,106051,MI,NLP Engineer,Telecommunications,S,8.3,0.8695813816870035,Mid-level
+15,273971,EX,Robotics Engineer,Telecommunications,L,8.3,0.8695813816870035,Executive
+15,248665,EX,ML Ops Engineer,Technology,M,9.5,0.8695813816870035,Executive
+6,121299,SE,NLP Engineer,Energy,M,6.0,0.8695813816870035,Senior
+10,275213,EX,Deep Learning Engineer,Consulting,L,9.5,0.8695813816870035,Executive
+14,307237,EX,Principal Data Scientist,Energy,L,8.8,0.8695813816870035,Executive
+8,135876,SE,Principal Data Scientist,Healthcare,S,8.1,0.8695813816870035,Senior
+1,87728,EN,Computer Vision Engineer,Automotive,L,9.4,0.8695813816870035,Entry
+13,288661,EX,AI Architect,Retail,L,6.5,0.8695813816870035,Executive
+4,97480,MI,Robotics Engineer,Energy,M,7.9,0.8695813816870035,Mid-level
